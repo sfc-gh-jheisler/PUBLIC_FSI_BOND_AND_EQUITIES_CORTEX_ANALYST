@@ -17,10 +17,10 @@ tables:
         - INSTRUMENT_ID
     filters:
       - name: overweight
-        description: holdings overweight comparing with benchmark
+        description: holdings overweight compared with benchmark
         expr: active_weight_pct > 0
       - name: underweight
-        description: holdings underweight comparing with benchmark
+        description: holdings underweight compared with benchmark
         expr: active_weight_pct < 0
     dimensions:
       - name: PORTFOLIO

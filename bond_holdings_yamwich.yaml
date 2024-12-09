@@ -1,0 +1,334 @@
+name: yamwich
+tables:
+  - name: BOND_HOLDINGS_FACT
+    description: BOND_HOLDINGS_FACT stores historical bond holdings data, including
+      details such as portfolio, benchmark, instrument ID, notional value, market
+      value, coupon rate, maturity date, and issuer, providing a comprehensive view
+      of bond holdings over time.__
+    base_table:
+      database: GEN_AI_FSI
+      schema: EQUITY_AND_BOND_ANALYST
+      table: BOND_HOLDINGS_FACT
+    primary_key:
+      columns:
+        - AS_OF_DATE
+        - PORTFOLIO
+        - BENCHMARK
+        - INSTRUMENT_ID
+    filters:
+      - name: overweight
+        description: holdings overweight comparing with benchmark
+        expr: active_weight_pct > 0
+      - name: underweight
+        description: holdings underweight comparing with benchmark
+        expr: active_weight_pct < 0
+    dimensions:
+      - name: PORTFOLIO
+        synonyms:
+          - '  '
+        description: Portfolio identifier for a specific bond holding.__
+        expr: PORTFOLIO
+        data_type: TEXT
+        sample_values:
+          - bond_demo_portfolio
+      - name: BENCHMARK
+        synonyms:
+          - '  '
+        description: Benchmark for bond holdings.__
+        expr: BENCHMARK
+        data_type: TEXT
+        sample_values:
+          - bond_demo_bmk
+      - name: INSTRUMENT_ID
+        synonyms:
+          - '  '
+        description: Unique identifier for each bond instrument held in the portfolio.__
+        expr: INSTRUMENT_ID
+        data_type: TEXT
+        sample_values:
+          - LX000001
+          - LX000002
+          - LX000003
+          - LX000004
+          - LX000005
+      - name: CNTRY_OF_RISK
+        synonyms:
+          - country exposure
+          - country
+        description: Country of Risk__
+        expr: CNTRY_OF_RISK
+        data_type: TEXT
+        sample_values:
+          - USA
+          - GBR
+          - JPN
+          - FRA
+          - AUS
+      - name: SEC_SP_RTG
+        synonyms:
+          - sp rating
+        description: S&P's security credit rating__
+        expr: SEC_SP_RTG
+        data_type: TEXT
+        sample_values:
+          - B-
+          - B
+          - NR
+          - B+
+          - BB
+      - name: SEC_MDY_RTG
+        synonyms:
+          - moodys rating
+        description: Moody's Security Credit Rating__
+        expr: SEC_MDY_RTG
+        data_type: TEXT
+        sample_values:
+          - B2
+          - B1
+          - NR
+          - Ba3
+          - Ba2
+      - name: ASSET_NAME
+        synonyms:
+          - Asset
+        description: List of asset names held by the company.__
+        expr: ASSET_NAME
+        data_type: TEXT
+        sample_values:
+          - Xltimate Eoftwa Demo Sec
+          - ATHEYAHEALTH I Demo Sec
+          - PeraAon Xorp Demo Sec
+          - ClAud SoftBare Demo Sec
+          - McLfee LLC TL B Demo Sec
+      - name: ISSUER
+        synonyms:
+          - names
+          - issuer
+        description: List of bond issuers. default to this when users asks about issuer__
+        expr: ISSUER
+        data_type: TEXT
+        sample_values:
+          - Xltimate Eoftwa Demo Corp
+          - ATHEYAHEALTH I Demo Corp
+          - PeraAon Xorp Demo Corp
+          - ClAud SoftBare Demo Corp
+          - McLfee LLC TL B Demo Corp
+      - name: INSTRUMENT_TYPE
+        synonyms:
+          - '  '
+        description: List of bond instrument types held by the company.__
+        expr: INSTRUMENT_TYPE
+        data_type: TEXT
+        sample_values:
+          - Senior Loan
+          - Corporate Bond
+          - Cash
+      - name: GICS_ID
+        synonyms:
+          - '  '
+        description: Global Industry Classification Standard identifier foreign key
+          to GICS dimensional table.__
+        expr: GICS_ID
+        data_type: NUMBER
+        sample_values:
+          - '1401'
+          - '1402'
+          - '1403'
+          - '1404'
+          - '1405'
+    time_dimensions:
+      - name: AS_OF_DATE
+        synonyms:
+          - '  '
+        description: Date of record for bond holdings.__
+        expr: AS_OF_DATE
+        data_type: DATE
+        sample_values:
+          - '2024-06-30'
+          - '2024-05-31'
+          - '2024-04-30'
+      - name: MATURITY_DT
+        synonyms:
+          - '  '
+        description: Maturity Date of Bond or loan.__
+        expr: MATURITY_DT
+        data_type: DATE
+        sample_values:
+          - '2031-02-10'
+          - '2029-02-15'
+          - '2028-02-01'
+          - '2029-03-30'
+          - '2029-03-01'
+      - name: ISSUE_DT
+        synonyms:
+          - '  '
+        description: Issue date of the bond/loan.__
+        expr: ISSUE_DT
+        data_type: DATE
+        sample_values:
+          - '2024-02-09'
+          - '2022-02-15'
+          - '2018-05-15'
+          - '2024-03-27'
+          - '2023-05-03'
+    measures:
+      - name: NOTIONAL
+        synonyms:
+          - '  '
+        description: Notional Value of Bond Holdings.__
+        expr: NOTIONAL
+        data_type: FLOAT
+        sample_values:
+          - '151641432.0'
+          - '152824594.0'
+          - '148405996.0'
+          - '133681254.0'
+          - '109369361.0'
+      - name: MARKET_VALUE
+        synonyms:
+          - '  '
+        description: Market value of bond holdings.__
+        expr: MARKET_VALUE
+        data_type: FLOAT
+        sample_values:
+          - '152430009.3'
+          - '152351396.6'
+          - '148656600.1'
+          - '145354867.0'
+          - '133641576.0'
+      - name: COUPON_RATE
+        synonyms:
+          - '  '
+        description: coupon rate is the annual income an investor can expect to receive
+          while holding a particular bond.__
+        expr: COUPON_RATE
+        data_type: FLOAT
+        sample_values:
+          - '8.58'
+          - '8.59'
+          - '9.19'
+          - '9.91'
+          - '8.09'
+      - name: WEIGHT_PCT
+        synonyms:
+          - '  '
+        description: Weighting percentage of each bond holding. This is the proportion,
+          expressed as a percentage, that a specific bond holds within a larger portfolio
+          of bonds, essentially indicating how much influence that individual bond
+          has on the overall performance of the portfolio__
+        expr: WEIGHT_PCT
+        data_type: FLOAT
+        sample_values:
+          - '0.01939'
+          - '0.01938'
+          - '0.01891'
+          - '0.01849'
+          - '0.017'
+      - name: ACTIVE_WEIGHT_PCT
+        synonyms:
+          - '  '
+        description: Active weight percentage of bond holdings comparing to benchmark.__
+        expr: ACTIVE_WEIGHT_PCT
+        data_type: FLOAT
+        sample_values:
+          - '0.0081'
+          - '0.0021'
+          - '0.0126'
+          - '-0.0063'
+          - '0.0157'
+      - name: BMK_WEIGHT_PCT
+        synonyms:
+          - '  '
+        description: Benchmark Weight Percentage.__
+        expr: BMK_WEIGHT_PCT
+        data_type: FLOAT
+        sample_values:
+          - '0.01129'
+          - '0.01728'
+          - '0.00631'
+          - '0.02479'
+          - '0.0142'
+  - name: GICS
+    description: Global Industry Classification Standard (GICS) Sector, Industry Group,
+      Industry, and Sub-Industry Codes.__
+    base_table:
+      database: GEN_AI_FSI
+      schema: EQUITY_AND_BOND_ANALYST_DIMS
+      table: GICS
+    primary_key:
+      columns:
+        - ID
+    dimensions:
+      - name: GICS_SECTOR
+        synonyms:
+          - sector
+        description: Global Industry Classification Standard (GICS) sector.__
+        expr: GICS_SECTOR
+        data_type: TEXT
+        sample_values:
+          - Communication Services
+          - Consumer Discretionary
+          - Energy
+          - Financials
+          - Consumer Staples
+      - name: GICS_IND_GRP
+        synonyms:
+          - industry group
+          - ind group
+        description: Global Industry Classification Standard (GICS) Industry Group.__
+        expr: GICS_IND_GRP
+        data_type: TEXT
+        sample_values:
+          - Media & Entertainment
+          - Telecommunication Services
+          - Automobiles & Components
+          - Consumer Services
+          - Food Beverage & Tobacco
+      - name: GICS_IND
+        synonyms:
+          - industry
+          - ind
+        description: Global Industry Classification Standard (GICS) Industry.__
+        expr: GICS_IND
+        data_type: TEXT
+        sample_values:
+          - Entertainment
+          - Interactive Media & Services
+          - Media
+          - Diversified Telecommunication Services
+          - Wireless Telecommunication Services
+      - name: GICS_SUBIND
+        synonyms:
+          - subindustry
+          - sub-industry
+        description: Global Industry Classification Standard (GICS) Subindustry.__
+        expr: GICS_SUBIND
+        data_type: TEXT
+        sample_values:
+          - Interactive Home Entertainment
+          - Interactive Media & Services
+          - Advertising
+          - Publishing
+          - Integrated Telecommunication Services
+      - name: ID
+        synonyms:
+          - '  '
+        description: ID and Primary Key column for the Global Industry Classification
+          Standard (GICS) table.__
+        expr: ID
+        data_type: NUMBER
+        sample_values:
+          - '1454'
+          - '1416'
+          - '1460'
+          - '1482'
+          - '1459'
+relationships:
+  - name: GICS dim
+    left_table: BOND_HOLDINGS_FACT
+    right_table: GICS
+    join_type: inner
+    relationship_type: many_to_one
+    relationship_columns:
+      - left_column: GICS_ID
+        right_column: ID

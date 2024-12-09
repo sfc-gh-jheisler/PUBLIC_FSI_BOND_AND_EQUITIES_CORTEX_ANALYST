@@ -53,6 +53,7 @@ tables:
           - LX000005
       - name: CNTRY_OF_RISK
         synonyms:
+          - country of risk
           - country exposure
           - country
         description: Country of Risk__

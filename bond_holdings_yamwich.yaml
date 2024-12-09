@@ -1,4 +1,4 @@
-name: yamwich
+name: bond_holdings_yamwich
 tables:
   - name: BOND_HOLDINGS_FACT
     description: BOND_HOLDINGS_FACT stores historical bond holdings data, including

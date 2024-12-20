@@ -1,13 +1,16 @@
-use database gen_ai_fsi;
+create database if not exists gen_ai_fsi;
 create schema if not exists equity_and_bond_analyst;
-
-create stage if not exists semantic_models directory = (enable = true);
-create stage if not exists raw_data directory = (enable = true);
 
 use database gen_ai_fsi;
 use schema equity_and_bond_analyst;
 
+create stage if not exists semantic_models directory = (enable = true);
+create stage if not exists raw_data directory = (enable = true);
+
+/*Complete the following before continuing*/
+-- Upload the yaml files into stage semantic_models
 -- Upload the csv files into stage raw_data
+
 create or replace TABLE equity_holdings (
 	AS_OF_DATE DATE,
 	PORTFOLIO TEXT,
@@ -37,7 +40,6 @@ create or replace TABLE equity_txns (
     ASSET_NAME TEXT,
     ISSUER TEXT
 );
-
 
 create or replace TABLE bond_holdings (
 	AS_OF_DATE DATE,

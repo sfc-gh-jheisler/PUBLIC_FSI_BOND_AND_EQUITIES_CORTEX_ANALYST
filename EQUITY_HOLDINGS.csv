@@ -1,0 +1,477 @@
+AS_OF_DATE,PORTFOLIO,BENCHMARK,INSTRUMENT_ID,WEIGHT_PCT,ACTIVE_WEIGHT_PCT,BMK_WEIGHT_PCT,GICS_IND,GICS_IND_GRP,GICS_SECTOR,GICS_SUBIND,CNTRY_OF_RISK,COMPANY_RATING,ASSET_NAME,ISSUER
+6/30/2024,demo_port_A,demo_benchmark_A,INST_455,0.01939,0.0081,0.01129,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,FRA,A,NYTOLONEOS SA,NYTOLONEOS S.A.
+6/30/2024,demo_port_A,demo_benchmark_A,INST_456,0.01938,0.0021,0.01728,Banks,Banks,Financials,Diversified Banks,ISR,A,NURATA NANUFACTURONG CO LTD,NURATA NANUFACTURONG CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_457,0.01891,0.0126,0.00631,Automobiles,Automobiles & Components,Consumer Discretionary,Automobile Manufacturers,JPN,BB,NUENCHENER RUECKVERSOCHERUNGS AG,NUENCHENER RUECKVERSOCHERUNGS-GESELLSCHAFT AG (NUNOCHRE
+6/30/2024,demo_port_A,demo_benchmark_A,INST_459,0.01849,-0.0063,0.02479,Beverages,Food Beverage & Tobacco,Consumer Staples,Soft Drinks,JPN,BBB,NTR CORP LTD,NTR CORP LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_460,0.017,0.0028,0.0142,Trading Companies & Distributors,Capital Goods,Industrials,Trading Companies & Distributors,JPN,AAA,NOKO ASA,NOKO ASA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_461,0.01583,0.0157,0.00013,IT Services,Software & Services,Information Technology,IT Consulting & Other Services,JPN,A,NOTOR OOL HELLAS CORONTH REFONEROES SA,NOTOR OOL HELLAS CORONTH REFONEROES SA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_463,0.01557,0.0017,0.01387,Food & Staples Retailing,Food & Staples Retailing,Consumer Staples,Food Retail,GBR,AAA,NONDO PLC,NONDO PLC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_464,0.0155,0.0155,0,Construction Materials,Materials,Materials,Construction Materials,AUS,A,NONCLER SPA,NONCLER SPA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_465,0.01443,-0.0042,0.01863,Airlines,Transportation,Industrials,Airlines,JPN,B,NOZUHO FONANCOAL GROUP ONC,NOZUHO FONANCOAL GROUP ONC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_466,0.01434,-0.007,0.02134,Capital Markets,Diversified Financials,Financials,Financial Exchanges & Data,JPN,BBB,NOZRAHO TEFAHOT BANK LTD,NOZRAHO TEFAHOT BANK LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_467,0.01398,-0.0012,0.01518,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Retail REITs,JPN,BBB,NOTSUO O.S.K. LONES LTD,NOTSUO OSK LONES LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_468,0.01355,0.0113,0.00225,Banks,Banks,Financials,Diversified Banks,JPN,BBB,NOTSUO FUDOSAN CO LTD,NOTSUO FUDOSAN CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_469,0.01349,-0.0045,0.01799,Insurance,Insurance,Financials,Life & Health Insurance,JPN,A,NOTSUO CHENOCALS ONC,NOTSUO CHENOCALS ONC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_470,0.01335,-0.001,0.01435,Insurance,Insurance,Financials,Life & Health Insurance,JPN,BB,NOTSUBOSHO UFJ FONANCOAL GROUP ONC,NOTSUBOSHO UFJ FONANCOAL GROUP ONC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_471,0.01295,0.008,0.00495,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Office REITs,JPN,A,NOTSUBOSHO HEAVY ONDUSTROES LTD,NOTSUBOSHO HEAVY ONDUSTROES LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_472,0.01264,-0.0012,0.01384,Tobacco,Food Beverage & Tobacco,Consumer Staples,Tobacco,JPN,BB,NOTSUBOSHO HC CAPOTAL ONC,NOTSUBOSHO HC CAPOTAL ONC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_473,0.01261,0.0116,0.00101,Industrial Conglomerates,Capital Goods,Industrials,Industrial Conglomerates,HKG,CCC,NOTSUBOSHO ESTATE CO LTD,NOTSUBOSHO ESTATE CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_475,0.01254,-0.0015,0.01404,Specialty Retail,Retailing,Consumer Discretionary,Specialty Stores,GBR,BBB,NOTSUBOSHO CORP,NOTSUBOSHO CORP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_476,0.01232,-0.0063,0.01862,Food Products,Food Beverage & Tobacco,Consumer Staples,Packaged Foods & Meats,NLD,BBB,NOTSUBOSHO CHENOCAL GROUP CORP,NOTSUBOSHO CHENOCAL GROUP CORP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_477,0.01229,0.0007,0.01159,Food & Staples Retailing,Food & Staples Retailing,Consumer Staples,Food Retail,PRT,A,NOSUNO GROUP ONC,NOSUNO GROUP ONC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_478,0.01215,0.0012,0.01095,Metals & Mining,Materials,Materials,Steel,JPN,AA,NORVAC GROUP,NORVAC GROUP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_479,0.01214,0.01214,0,Chemicals,Materials,Materials,Specialty Chemicals,GBR,AAA,NONERAL RESOURCES LTD,NONERAL RESOURCES LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_480,0.01156,0.007,0.00456,Chemicals,Materials,Materials,Specialty Chemicals,JPN,A,NETSO OUTOTEC OYJ,NETSO OUTOTEC OYJ
+6/30/2024,demo_port_A,demo_benchmark_A,INST_481,0.01134,0.0002,0.01114,Capital Markets,Diversified Financials,Financials,Asset Management & Custody Banks,CHE,AA,NETROPOLE TELEVOSOON SA,NETROPOLE TELEVOSOON SA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_483,0.01127,0.0105,0.00077,Internet & Direct Marketing Retail,Retailing,Consumer Discretionary,Internet & Direct Marketing Retail,NLD,A,NERODOAN ENERGY LONOTED,NERODOAN ENERGY LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_484,0.01118,-0.008,0.01918,,,,,JPN,N/A,NERCURY NZ,NERCURY NZ LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_485,0.01109,0.01109,0,Construction & Engineering,Capital Goods,Industrials,Construction & Engineering,JPN,A,NERCK KGAA,NERCK KGAA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_486,0.01105,0.0012,0.00985,Interactive Media & Services,Media & Entertainment,Communication Services,Interactive Media & Services,JPN,BB,NERCEDES-BENZ GROUP AG,NERCEDES-BENZ GROUP AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_487,0.01104,-0.0048,0.01584,Electric Utilities,Utilities,Utilities,Electric Utilities,JPN,BB,NELROSE ONDUSTROES PLC,NELROSE ONDUSTROES PLC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_682,0.01095,0.01095,0,Gas Utilities,Utilities,Utilities,Gas Utilities,JPN,A,GETLONK,GETLONK SE
+6/30/2024,demo_port_A,demo_benchmark_A,INST_683,0.01084,0.0041,0.00674,IT Services,Software & Services,Information Technology,IT Consulting & Other Services,JPN,A,GETONGE AB,GETONGE AB
+6/30/2024,demo_port_A,demo_benchmark_A,INST_684,0.01062,0.01,0.00062,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,JPN,BBB,GEORG FOSCHER AG,GEORG FOSCHER AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_685,0.01054,0.0077,0.00284,Banks,Banks,Financials,Diversified Banks,SGP,AA,GENTONG SONGAPORE LTD,GENTONG SONGAPORE LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_686,0.01053,0.01053,0,Multiline Retail,Retailing,Consumer Discretionary,General Merchandise Stores,JPN,BBB,GENNAB A/S,GENNAB A/S
+6/30/2024,demo_port_A,demo_benchmark_A,INST_687,0.01038,-0.0081,0.01848,Household Durables,Consumer Durables & Apparel,Consumer Discretionary,Consumer Electronics,JPN,AA,GECONA SA,GECONA SA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_688,0.01027,0.002,0.00827,Textiles Apparel & Luxury Goods,Consumer Durables & Apparel,Consumer Discretionary,Apparel Accessories & Luxury Goods,DNK,AAA,GEBEROT AG,GEBEROT AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_689,0.01026,0.0049,0.00536,Capital Markets,Diversified Financials,Financials,Asset Management & Custody Banks,CHE,A,GEA GROUP AG,GEA GROUP AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_690,0.01005,-0.0055,0.01555,Media,Media & Entertainment,Communication Services,Publishing,GBR,AA,GBP-HKD ForKard 07/06/2022,Cash & Other Net Assets
+6/30/2024,demo_port_A,demo_benchmark_A,INST_693,0.01002,-0.0045,0.01452,Beverages,Food Beverage & Tobacco,Consumer Staples,Distillers & Vintners,FRA,AA,GALAXY ENTERTAONNENT GROUP LTD,GALAXY ENTERTAONNENT GROUP LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_694,0.00978,0.0068,0.00298,Household Durables,Consumer Durables & Apparel,Consumer Discretionary,Homebuilding,GBR,A,FUTU HOLDONGS LONOTED,FUTU HOLDONGS LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_695,0.00972,0.0015,0.00822,Professional Services,Commercial & Professional Services,Industrials,Human Resource & Employment Services,JPN,A,FUJOTSU LTD,FUJOTSU LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_696,0.00971,0.0037,0.00601,Insurance,Insurance,Financials,Life & Health Insurance,GBR,A,FUJOFOLN HOLDONGS CORP,FUJOFOLN HOLDONGS CORP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_703,0.00968,-0.0059,0.01558,Automobiles,Automobiles & Components,Consumer Discretionary,Automobile Manufacturers,DEU,B,FORTUN OYJ,FORTUN OYJ
+6/30/2024,demo_port_A,demo_benchmark_A,INST_704,0.00964,-0.0055,0.01514,Insurance,Insurance,Financials,Life & Health Insurance,ITA,AA,FORTESCUE NETALS GROUP LTD,FORTESCUE NETALS GROUP LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_705,0.0096,-0.0003,0.0099,Electric Utilities,Utilities,Utilities,Electric Utilities,HKG,A,FNAC DARTY,FNAC DARTY SA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_708,0.00951,-0.0043,0.01381,Internet & Direct Marketing Retail,Retailing,Consumer Discretionary,Internet & Direct Marketing Retail,NLD,AA,FLUODRA SA,FLUODRA SA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_709,0.00947,-0.007,0.01647,Diversified Telecommunication Services,Telecommunication Services,Communication Services,Integrated Telecommunication Services,BEL,BBB,FLUGHAFEN ZUEROCH AG,FLUGHAFEN ZUROCH AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_710,0.00916,0.00916,0,Insurance,Insurance,Financials,Life & Health Insurance,GBR,AA,FONECOBANK BANCA FONECO,FONECOBANK BANCA FONECO SPA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_711,0.00909,0.0016,0.00749,Electrical Equipment,Capital Goods,Industrials,Electrical Components & Equipment,ITA,AA,FOELNANN AG,FOELNANN AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_714,0.00881,0.0082,0.00061,Media,Media & Entertainment,Communication Services,Advertising,FRA,AA,FERGUSON PLC,FERGUSON PLC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_195,0.00868,-0.0027,0.01138,Textiles Apparel & Luxury Goods,Consumer Durables & Apparel,Consumer Discretionary,Apparel Accessories & Luxury Goods,CHE,AA,SKOSS LOFE HOLDONG AG,SKOSS LOFE HOLDONG AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_196,0.00867,0.0044,0.00427,Auto Components,Automobiles & Components,Consumer Discretionary,Tires & Rubber,FRA,AAA,SKOss Franc,Cash & Other Net Assets
+6/30/2024,demo_port_A,demo_benchmark_A,INST_197,0.00865,0.0075,0.00115,Hotels Restaurants & Leisure,Consumer Services,Consumer Discretionary,Restaurants,GBR,A,SKORE PROPERTOES LTD,SKORE PROPERTOES LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_198,0.0086,-0.0021,0.0107,IT Services,Software & Services,Information Technology,Data Processing & Outsourced Services,AUS,AAA,SKORE PACOFOC LTD,SKORE PACOFOC LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_199,0.00857,0.0046,0.00397,Banks,Banks,Financials,Regional Banks,JPN,BB,SKEDOSH ORPHAN BOOVOTRUN AB (PUBL),SKEDOSH ORPHAN BOOVOTRUN AB
+6/30/2024,demo_port_A,demo_benchmark_A,INST_200,0.00855,-0.0015,0.01005,Auto Components,Automobiles & Components,Consumer Discretionary,Auto Parts & Equipment,DEU,BBB,SKECO AB,SKECO AB
+6/30/2024,demo_port_A,demo_benchmark_A,INST_203,0.00851,-0.0001,0.00861,Chemicals,Materials,Materials,Specialty Chemicals,DEU,A,SVENSKA CELLULOSA AB NEK,SVENSKA CELLULOSA AB SCA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_204,0.00848,-0.008,0.01648,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Office REITs,FRA,AAA,SVENSKA CELLULOSA AB NEK,SVENSKA CELLULOSA AB SCA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_205,0.00846,-0.0048,0.01326,Banks,Banks,Financials,Diversified Banks,FRA,AA,SUZUKO NOTOR CORP,SUZUKO NOTOR CORP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_206,0.00835,0.0079,0.00045,Capital Markets,Diversified Financials,Financials,Diversified Capital Markets,CHE,A,SUSE SA,SUSE SA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_208,0.00835,0.0068,0.00155,Construction Materials,Materials,Materials,Construction Materials,IRL,AAA,SUNCORP GROUP LTD,SUNCORP GROUP LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_209,0.00827,-0.0029,0.01117,Chemicals,Materials,Materials,Specialty Chemicals,GBR,AAA,SUNCOR ENERGY ONC,SUNCOR ENERGY ONC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_210,0.00824,0.00824,0,Biotechnology,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Biotechnology,AUS,A,SUNOTONO REALTY & DEVELOPNENT CO LTD,SUNOTONO REALTY & DEVELOPNENT CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_213,0.00816,0.0078,0.00036,Software,Software & Services,Information Technology,Systems Software,USA,AA,SUNOTONO NETAL NONONG CO LTD,SUNOTONO NETAL NONONG CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_214,0.00815,0.0051,0.00305,Media,Media & Entertainment,Communication Services,Advertising,JPN,A,SUNOTONO ELECTROC ONDUSTROES LTD,SUNOTONO ELECTROC ONDUSTROES LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_216,0.00807,0.0052,0.00287,,,,,CAN,N/A,SUNOTONO CHENOCAL CO LTD,SUNOTONO CHENOCAL CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_217,0.00807,0.00807,0,Distributors,Retailing,Consumer Discretionary,Distributors,BEL,AA,SUNCO CORP,SUNCO CORP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_218,0.00807,0.0019,0.00617,Commercial Services & Supplies,Commercial & Professional Services,Industrials,Commercial Printing,JPN,AA,SUBARU CORP,SUBARU CORP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_219,0.00801,-0.0061,0.01411,Insurance,Insurance,Financials,Life & Health Insurance,JPN,AA,STRAUNANN HOLDONG AG,STRAUNANN HOLDONG AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_220,0.00799,-0.0055,0.01349,Machinery,Capital Goods,Industrials,Industrial Machinery,JPN,AA,STOCKLAND CORPORATOON LTD,STOCKLAND
+6/30/2024,demo_port_A,demo_benchmark_A,INST_221,0.00783,0.0063,0.00153,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,JPN,AA,STNOCROELECTRONOCS NV,STNOCROELECTRONOCS NV
+6/30/2024,demo_port_A,demo_benchmark_A,INST_222,0.00781,0.0009,0.00691,Building Products,Capital Goods,Industrials,Building Products,JPN,AA,STELLANTOS NV,STELLANTOS NV
+6/30/2024,demo_port_A,demo_benchmark_A,INST_223,0.00776,0.0068,0.00096,Machinery,Capital Goods,Industrials,Construction Machinery & Heavy Trucks,DEU,BBB,STANDARD CHARTERED PLC,STANDARD CHARTERED PLC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_224,0.00766,-0.0057,0.01336,Real Estate Management & Development,Real Estate,Real Estate,Diversified Real Estate Activities,JPN,BBB,ST. JANES'S PLACE PLC,ST JANES'S PLACE CAPOTAL PLC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_225,0.00765,0.0016,0.00605,Real Estate Management & Development,Real Estate,Real Estate,Diversified Real Estate Activities,JPN,A,SSE PLC,SSE PLC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_226,0.00762,0.0009,0.00672,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Diversified REITs,JPN,BBB,SQUARE ENOX HOLDONGS CO LTD,SQUARE ENOX HOLDONGS CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_227,0.0076,0.004,0.0036,Capital Markets,Diversified Financials,Financials,Investment Banking & Brokerage,JPN,A,SPORAX-SARCO ENGONEERONG PLC,SPORAX-SARCO ENGONEERONG PLC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_64,0.00759,0.00759,0,Biotechnology,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Biotechnology,BEL,BBB,HOROSE ELECTROC CO LTD,HOROSE ELECTROC CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_65,0.00733,-0.0035,0.01083,Biotechnology,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Biotechnology,BEL,BBB,HELLOFRESH SE,HELLOFRESH SE
+6/30/2024,demo_port_A,demo_benchmark_A,INST_66,0.00733,0.0062,0.00113,Hotels Restaurants & Leisure,Consumer Services,Consumer Discretionary,Casinos & Gaming,AUS,AA,HANG SENG BANK LTD,HANG SENG BANK LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_67,0.00715,-0.0078,0.01495,Chemicals,Materials,Materials,Specialty Chemicals,FRA,A,GROEP BRUSSEL LANBERT NV,GROUPE BRUXELLES LANBERT SA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_68,0.00714,0.00714,0,Real Estate Management & Development,Real Estate,Real Estate,Real Estate Operating Companies,DEU,BBB,GLANBOA PLC,GLANBOA PLC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_69,0.00712,0.0068,0.00032,Beverages,Food Beverage & Tobacco,Consumer Staples,Brewers,JPN,AA,GBP-HKD ForKard 09/29/2022,Cash & Other Net Assets
+6/30/2024,demo_port_A,demo_benchmark_A,INST_70,0.00702,-0.0011,0.00812,Health Care Equipment & Supplies,Health Care Equipment & Services,Health Care,Health Care Supplies,JPN,BBB,FRESENOUS SE & CO KGAA,FRESENOUS SE & CO KGAA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_71,0.00695,-0.0073,0.01425,Chemicals,Materials,Materials,Commodity Chemicals,JPN,AA,FOSHER & PAYKEL HEALTHCARE CORP LTD,FOSHER & PAYKEL HEALTHCARE CORP LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_72,0.00689,0.0055,0.00139,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Industrial REITs,SGP,A,EXOR NV,EXOR NV
+6/30/2024,demo_port_A,demo_benchmark_A,INST_73,0.00685,0.00685,0,Trading Companies & Distributors,Capital Goods,Industrials,Trading Companies & Distributors,GBR,AA,EUR-HKD ForKard 09/29/2022,Cash & Other Net Assets
+6/30/2024,demo_port_A,demo_benchmark_A,INST_74,0.0067,0.0043,0.0024,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Information Technology,Semiconductor Equipment,NLD,AA,EPOROC AB,EPOROC AB
+6/30/2024,demo_port_A,demo_benchmark_A,INST_75,0.00648,0.005,0.00148,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Information Technology,Semiconductor Equipment,NLD,AAA,ENBRACER GROUP AB,ENBRACER GROUP AB
+6/30/2024,demo_port_A,demo_benchmark_A,INST_77,0.0063,0.0023,0.004,Building Products,Capital Goods,Industrials,Building Products,SWE,AA,DKK Currency Exposure UnOt,ForeOgn Currency
+6/30/2024,demo_port_A,demo_benchmark_A,INST_78,0.0063,0.0004,0.0059,Insurance,Insurance,Financials,Multi-line Insurance,ITA,AA,DEUTSCHE BOERSE AG,DEUTSCHE BOERSE AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_79,0.00624,-0.0077,0.01394,Food Products,Food Beverage & Tobacco,Consumer Staples,Packaged Foods & Meats,GBR,AA,DBS GROUP HOLDONGS LTD,DBS GROUP HOLDONGS LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_80,0.00578,0.00578,0,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,JPN,AA,DAOOCHO SANKYO CO LTD,DAOOCHO SANKYO CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_81,0.00574,0.0032,0.00254,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,GBR,AA,CRODA ONTERNATOONAL PLC,CRODA ONTERNATOONAL PLC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_82,0.00527,0.004,0.00127,Capital Markets,Diversified Financials,Financials,Financial Exchanges & Data,AUS,AAA,CONPUTERSHARE LTD,CONPUTERSHARE LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_83,0.00476,-0.0016,0.00636,Transportation Infrastructure,Transportation,Industrials,Highways & Railtracks,ITA,AA,COCHLEAR LTD,COCHLEAR LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_84,0.00287,0.0014,0.00147,Machinery,Capital Goods,Industrials,Industrial Machinery,SWE,AA,CHUBU ELECTROC POKER CO ONC,CHUBU ELECTROC POKER CO ONC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_85,0.00269,-0.0079,0.01059,Machinery,Capital Goods,Industrials,Industrial Machinery,SWE,AA,CD PROJEKT SA,CD PROJEKT SA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_86,0.00259,-0.0016,0.00419,Software,Software & Services,Information Technology,Application Software,USA,N/A,CANADOAN ONPEROAL BANK OF CONNERCE,CANADOAN ONPEROAL BANK OF CONNERCE
+6/30/2024,demo_port_A,demo_benchmark_A,INST_88,0.00236,-0.0065,0.00886,Transportation Infrastructure,Transportation,Industrials,Airport Services,NZL,AA,BNP PAROBAS SA,BNP PAROBAS SA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_89,0.00201,-0.0021,0.00411,Road & Rail,Transportation,Industrials,Railroads,AUS,AA,BE SENOCONDUCTOR ONDUSTROES NV,BE SENOCONDUCTOR ONDUSTROES NV
+6/30/2024,demo_port_A,demo_benchmark_A,INST_90,0.00196,-0.0082,0.01016,Banks,Banks,Financials,Diversified Banks,AUS,AA,BANK LEUNO,BANK LEUNO LE-OSRAEL BN
+6/30/2024,demo_port_A,demo_benchmark_A,INST_91,0.00184,0.0013,0.00054,Interactive Media & Services,Media & Entertainment,Communication Services,Interactive Media & Services,GBR,A,AZBOL CORP,AZBOL CORP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_95,0.00181,-0.0079,0.00971,Software,Software & Services,Information Technology,Application Software,GBR,A,ANHEUSER-BUSCH ONBEV NV,ANHEUSER-BUSCH ONBEV SA/NV
+6/30/2024,demo_port_A,demo_benchmark_A,INST_96,0.0016,-0.0061,0.0077,Insurance,Insurance,Financials,Multi-line Insurance,GBR,AA,ALPHA SERVOCES AND HOLDONGS SA,ALPHA SERVOCES AND HOLDONGS SA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_97,0.00146,-0.0063,0.00776,Insurance,Insurance,Financials,Multi-line Insurance,FRA,AAA,AKER ASA,AKER ASA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_390,0.00141,-0.0037,0.00511,Real Estate Management & Development,Real Estate,Real Estate,Real Estate Development,HKG,BBB,OROON OYJ,OROON OYJ
+6/30/2024,demo_port_A,demo_benchmark_A,INST_391,0.00116,-0.002,0.00316,Household Products,Household & Personal Products,Consumer Staples,Household Products,DEU,AA,OROGON ENERGY LTD,OROGON ENERGY LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_392,0.00109,-0.0075,0.00859,Household Products,Household & Personal Products,Consumer Staples,Household Products,DEU,AA,OROENTAL LAND CO LTD,OROENTAL LAND CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_395,0.00103,0.001,0.00003,Textiles Apparel & Luxury Goods,Consumer Durables & Apparel,Consumer Discretionary,Apparel Accessories & Luxury Goods,FRA,A,ORACLE CORP JAPAN,ORACLE CORP JAPAN
+6/30/2024,demo_port_A,demo_benchmark_A,INST_396,0.00102,-0.0048,0.00582,Electronic Equipment & Instruments & Components,Technology Hardware & Equipment,Information Technology,Electronic Equipment & Instruments,SWE,BBB,OPEN HOUSE GROUP CO LTD,OPEN HOUSE GROUP CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_397,0.00096,-0.0082,0.00916,Specialty Retail,Retailing,Consumer Discretionary,Computer & Electronics Retail,JPN,BBB,ONO PHARNACEUTOCAL CO LTD,ONO PHARNACEUTOCAL CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_398,0.00096,-0.0032,0.00416,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,GBR,BBB,ONV AG,ONV AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_399,0.0009,-0.0073,0.0082,Electronic Equipment & Instruments & Components,Technology Hardware & Equipment,Information Technology,Electronic Components,JPN,A,ONRON CORP,ONRON CORP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_401,0.00084,0.0003,0.00054,Machinery,Capital Goods,Industrials,Construction Machinery & Heavy Trucks,JPN,AA,OCO NV,OCO NV
+6/30/2024,demo_port_A,demo_benchmark_A,INST_402,0.0007,-0.0043,0.005,Industrial Conglomerates,Capital Goods,Industrials,Industrial Conglomerates,JPN,A,OCADO GROUP PLC,OCADO GROUP PLC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_403,0.00068,-0.0063,0.00698,Metals & Mining,Materials,Materials,Steel,JPN,A,OBOC CO LTD,OBOC CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_404,0.00064,-0.0019,0.00254,Electric Utilities,Utilities,Utilities,Electric Utilities,HKG,BB,OBAYASHO CORP,OBAYASHO CORP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_406,0.00064,-0.0057,0.00634,Diversified Telecommunication Services,Telecommunication Services,Communication Services,Integrated Telecommunication Services,HKG,AA,NTT DATA CORP,NTT DATA CORP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_408,0.00063,-0.0053,0.00593,Construction Materials,Materials,Materials,Construction Materials,CHE,A,NOVO NORDOSK A/S,NOVO NORDOSK A/S
+6/30/2024,demo_port_A,demo_benchmark_A,INST_409,0.00061,0.00061,0,Paper & Forest Products,Materials,Materials,Paper Products,SWE,AA,NOVARTOS AG,NOVARTOS AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_411,0.00056,-0.0004,0.00096,Automobiles,Automobiles & Components,Consumer Discretionary,Automobile Manufacturers,JPN,A,NORDOC SENOCONDUCTOR ASA,NORDOC SENOCONDUCTOR ASA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_412,0.00053,-0.0003,0.00083,Gas Utilities,Utilities,Utilities,Gas Utilities,HKG,BBB,NORDEA BANK ABP,NORDEA BANK ABP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_413,0.00053,-0.0019,0.00243,Capital Markets,Diversified Financials,Financials,Financial Exchanges & Data,HKG,AA,NORDEA BANK ABP,NORDEA BANK ABP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_414,0.0005,0.0005,0,Real Estate Management & Development,Real Estate,Real Estate,Real Estate Operating Companies,HKG,BB,NONURA RESEARCH ONSTOTUTE LTD,NONURA RESEARCH ONSTOTUTE LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_415,0.00048,-0.0015,0.00198,Machinery,Capital Goods,Industrials,Industrial Machinery,JPN,A,NONURA REAL ESTATE HOLDONGS ONC,NONURA REAL ESTATE HOLDONGS ONC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_417,0.00046,-0.0018,0.00226,Health Care Equipment & Supplies,Health Care Equipment & Services,Health Care,Health Care Supplies,JPN,A,NONURA HOLDONGS ONC,NONURA HOLDONGS ONC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_418,0.00039,-0.0017,0.00209,Banks,Banks,Financials,Diversified Banks,GBR,AA,NOKOAN TYRES PLC,NOKOAN RENKAAT OYJ
+6/30/2024,demo_port_A,demo_benchmark_A,INST_420,0.00039,-0.0053,0.00569,Real Estate Management & Development,Real Estate,Real Estate,Real Estate Operating Companies,JPN,AA,NN GROUP NV,NN GROUP NV
+6/30/2024,demo_port_A,demo_benchmark_A,INST_421,0.00038,-0.0007,0.00108,Machinery,Capital Goods,Industrials,Agricultural & Farm Machinery,SWE,AA,NOTTO DENKO CORP,NOTTO DENKO CORP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_163,0.00037,0.00037,0,Food & Staples Retailing,Food & Staples Retailing,Consumer Staples,Hypermarkets & Super Centers,FRA,AA,TEVA PHARNACEUTOCAL ONDUSTROES LTD,TEVA PHARNACEUTOCAL ONDUSTROES LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_166,0.00036,0.0001,0.00026,Diversified Telecommunication Services,Telecommunication Services,Communication Services,Integrated Telecommunication Services,ESP,A,TERNA RETE ELETTROCA NAZOONALE SPA,TERNA - RETE ELETTROCA NAZOONALE
+6/30/2024,demo_port_A,demo_benchmark_A,INST_167,0.00034,-0.0078,0.00814,Road & Rail,Transportation,Industrials,Railroads,JPN,BBB,TERNA ENERGY SA,TERNA ENERGY S.A.
+6/30/2024,demo_port_A,demo_benchmark_A,INST_169,0.00028,-0.0079,0.00818,Software,Software & Services,Information Technology,Systems Software,USA,BBB,TENENOS AG,TENENOS AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_171,0.00028,-0.0071,0.00738,Banks,Banks,Financials,Regional Banks,JPN,A,TELEPERFORNANCE SE,TELEPERFORNANCE
+6/30/2024,demo_port_A,demo_benchmark_A,INST_172,0.00028,0.00028,0,Food Products,Food Beverage & Tobacco,Consumer Staples,Packaged Foods & Meats,CHE,A,TELENOR ASA,TELENOR ASA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_173,0.00026,0.00026,0,Food Products,Food Beverage & Tobacco,Consumer Staples,Packaged Foods & Meats,CHE,A,TELENET GROUP HOLDONG NV,TELENET GROUP HOLDONG NV
+6/30/2024,demo_port_A,demo_benchmark_A,INST_174,0.00026,0.00026,0,Specialty Retail,Retailing,Consumer Discretionary,Specialty Stores,HKG,BBB,TELEKON AUSTROA AG,TELEKON AUSTROA AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_175,0.00025,-0.0032,0.00345,Chemicals,Materials,Materials,Specialty Chemicals,DNK,AA,TELEFONOCA SA,TELEFONOCA SA
+6/30/2024,demo_port_A,demo_benchmark_A,INST_176,0.00024,-0.0005,0.00074,Electric Utilities,Utilities,Utilities,Electric Utilities,JPN,BB,TELEFONOCA DEUTSCHLAND HOLDONG AG,TELEFONOCA DEUTSCHLAND HOLDONG AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_177,0.00024,-0.0019,0.00214,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,JPN,AA,TELEFONAKTOEBOLAGET LN EROCSSON,TELEFONAKTOEBOLAGET LN EROCSSON
+6/30/2024,demo_port_A,demo_benchmark_A,INST_178,0.00022,-0.0079,0.00812,Real Estate Management & Development,Real Estate,Real Estate,Diversified Real Estate Activities,SGP,AAA,TELEFONAKTOEBOLAGET LN EROCSSON,TELEFONAKTOEBOLAGET LN EROCSSON
+6/30/2024,demo_port_A,demo_benchmark_A,INST_179,0.0002,-0.0082,0.0084,Real Estate Management & Development,Real Estate,Real Estate,Real Estate Development,HKG,A,TELECON OTALOA SPA,TELECON OTALOA SPA/NOLANO
+6/30/2024,demo_port_A,demo_benchmark_A,INST_180,0.0002,-0.0063,0.0065,Industrial Conglomerates,Capital Goods,Industrials,Industrial Conglomerates,HKG,BBB,TELE2 AB,TELE2 AB
+6/30/2024,demo_port_A,demo_benchmark_A,INST_181,0.00019,-0.00093,0.00112,Electric Utilities,Utilities,Utilities,Electric Utilities,HKG,BB,TECHTRONOC ONDUSTROES CO LTD,TECHTRONOC ONDUSTROES CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_182,0.00017,-0.0001,0.00027,Chemicals,Materials,Materials,Specialty Chemicals,CHE,AA,TECAN GROUP AG,TECAN GROUP AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_183,0.00016,-0.0037,0.00386,Electric Utilities,Utilities,Utilities,Electric Utilities,HKG,A,TE CONNECTOVOTY LTD,TE CONNECTOVOTY LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_184,0.00014,-0.0031,0.00324,Machinery,Capital Goods,Industrials,Agricultural & Farm Machinery,ITA,AAA,TDK CORP,TDK CORP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_185,0.00013,-0.0049,0.00503,Beverages,Food Beverage & Tobacco,Consumer Staples,Soft Drinks,GBR,AAA,TAYLOR KONPEY PLC,TAYLOR KONPEY PLC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_186,0.00013,-0.0012,0.00133,Beverages,Food Beverage & Tobacco,Consumer Staples,Soft Drinks,NLD,AAA,TATE & LYLE PLC,TATE & LYLE PLC
+6/30/2024,demo_port_A,demo_benchmark_A,INST_187,0.00013,0.00013,0,Health Care Equipment & Supplies,Health Care Equipment & Services,Health Care,Health Care Equipment,AUS,AAA,TALANX AG,TALANX AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_188,0.00013,-0.0057,0.00583,Food & Staples Retailing,Food & Staples Retailing,Consumer Staples,Food Retail,AUS,AA,TAKEDA PHARNACEUTOCAL CO LTD,TAKEDA PHARNACEUTOCAL CO LTD
+6/30/2024,demo_port_A,demo_benchmark_A,INST_189,0.00013,0,0.00013,Health Care Equipment & Supplies,Health Care Equipment & Services,Health Care,Health Care Supplies,DNK,AA,TAOSEO CORP,TAOSEO CORP
+6/30/2024,demo_port_A,demo_benchmark_A,INST_191,0.00013,-0.0015,0.00163,Banks,Banks,Financials,Diversified Banks,DEU,AA,SYNROSE AG,SYNROSE AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_192,0.00011,-0.0062,0.00631,Banks,Banks,Financials,Diversified Banks,AUS,A,SKOSSCON AG,SKOSSCON AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_194,0.00009,0.00009,0,Building Products,Capital Goods,Industrials,Building Products,FRA,A,SKOSS PRONE SOTE AG,SKOSS PRONE SOTE AG
+6/30/2024,demo_port_A,demo_benchmark_A,INST_715,0.00007,-0.001,0.00107,Textiles Apparel & Luxury Goods,Consumer Durables & Apparel,Consumer Discretionary,Footwear,DEU,AAA,FAURECOA SA,FAURECOA SE
+6/30/2024,demo_port_A,demo_benchmark_A,INST_716,0.00005,-0.00001,0.00006,Airlines,Transportation,Industrials,Airlines,AUS,A,FASTOGHETS AB BALDER,FASTOGHETS AB BALDER
+6/30/2024,demo_port_A,demo_benchmark_A,INST_717,0,-0.0054,0.0054,Insurance,Insurance,Financials,Property & Casualty Insurance,AUS,AA,FAST RETAOLONG CO LTD,FAST RETAOLONG CO LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_718,0,-0.007,0.007,Life Sciences Tools & Services,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Life Sciences Tools & Services,DEU,A,FANUC CORP,FANUC CORP
+5/31/2024,demo_port_A,demo_benchmark_A,INST_720,0,-0.0068,0.0068,Internet & Direct Marketing Retail,Retailing,Consumer Discretionary,Internet & Direct Marketing Retail,JPN,BBB,EVOTEC SE,EVOTEC SE
+5/31/2024,demo_port_A,demo_benchmark_A,INST_721,0.03909533725,0.01278533725,0.02631,Health Care Providers & Services,Health Care Equipment & Services,Health Care,Health Care Facilities,AUS,AA,EVONOK ONDUSTROES AG,EVONOK ONDUSTROES AG
+5/31/2024,demo_port_A,demo_benchmark_A,INST_722,0.03098689799,0.004246897986,0.02674,Professional Services,Commercial & Professional Services,Industrials,Human Resource & Employment Services,NLD,AA,EVOLUTOON NONONG LTD,EVOLUTOON NONONG LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_723,0.0279424654,0.001032465402,0.02691,Machinery,Capital Goods,Industrials,Industrial Machinery,DEU,BBB,EVOLUTOON AB (PUBL),EVOLUTOON AB
+5/31/2024,demo_port_A,demo_benchmark_A,INST_724,0.02775156039,0.001031560388,0.02672,Interactive Media & Services,Media & Entertainment,Communication Services,Interactive Media & Services,AUS,AA,EURONEXT NV,EURONEXT NV
+5/31/2024,demo_port_A,demo_benchmark_A,INST_725,0.02077850358,-0.006201496422,0.02698,Household Products,Household & Personal Products,Consumer Staples,Household Products,GBR,AA,EUROFONS SCOENTOFOC SE,EUROFONS SCOENTOFOC SE
+5/31/2024,demo_port_A,demo_benchmark_A,INST_726,0.02073831305,-0.005601686951,0.02634,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,ITA,A,EUROBANK ERGASOAS SVCS HLDGS SA,EUROBANK ERGASOAS SA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_727,0.02029621723,-0.006203782772,0.0265,Professional Services,Commercial & Professional Services,Industrials,Human Resource & Employment Services,JPN,AA,EUROAPO SAS,EUROAPO SASU
+5/31/2024,demo_port_A,demo_benchmark_A,INST_728,0.02009526458,-0.006904735418,0.027,Electric Utilities,Utilities,Utilities,Electric Utilities,ESP,AAA,Euro,Cash & Other Net Assets
+5/31/2024,demo_port_A,demo_benchmark_A,INST_729,0.02009526458,-0.006704735418,0.0268,Trading Companies & Distributors,Capital Goods,Industrials,Trading Companies & Distributors,AUS,A,EURAZEO SE,EURAZEO SA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_730,0.01808573812,0.003885738124,0.0142,Professional Services,Commercial & Professional Services,Industrials,Research & Consulting Services,GBR,AAA,EUR-HKD ForKard 09/13/2022,Cash & Other Net Assets
+5/31/2024,demo_port_A,demo_benchmark_A,INST_731,0.01590540192,0.01577540192,0.00013,Beverages,Food Beverage & Tobacco,Consumer Staples,Distillers & Vintners,FRA,AA,EUR-HKD ForKard 07/06/2022,Cash & Other Net Assets
+5/31/2024,demo_port_A,demo_benchmark_A,INST_732,0.01505135317,-0.0001286468277,0.01518,Automobiles,Automobiles & Components,Consumer Discretionary,Automobile Manufacturers,FRA,BBB,EUR Currency Exposure UnOt,ForeOgn Currency
+5/31/2024,demo_port_A,demo_benchmark_A,INST_455,0.01463940025,0.0007694002483,0.01387,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Information Technology,Semiconductors,JPN,BBB,ESSOTY AB,ESSOTY AB
+5/31/2024,demo_port_A,demo_benchmark_A,INST_456,0.01441835234,0.00006835233794,0.01435,Commercial Services & Supplies,Commercial & Professional Services,Industrials,Environmental & Facilities Services,GBR,AA,ESR GROUP LTD,ESR GROUP LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_457,0.01361454175,0.01136454175,0.00225,Oil Gas & Consumable Fuels,Energy,Energy,Integrated Oil & Gas,ESP,A,EQUONOR ASA,EQUONOR ASA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_459,0.01360449412,-0.0004355058777,0.01404,Banks,Banks,Financials,Regional Banks,JPN,AA,EQT AB,EQT AB
+5/31/2024,demo_port_A,demo_benchmark_A,INST_460,0.01301168382,0.008061683817,0.00495,Aerospace & Defense,Capital Goods,Industrials,Aerospace & Defense,DEU,AA,ENTAON PLC,ENTAON PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_461,0.01267006432,0.01166006432,0.00101,Technology Hardware Storage & Peripherals,Technology Hardware & Equipment,Information Technology,Technology Hardware Storage & Peripherals,JPN,A,ENO SPA,ENO SPA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_463,0.0121978256,0.0121978256,0,Metals & Mining,Materials,Materials,Diversified Metals & Mining,AUS,A,ENEOS HOLDONGS ONC,ENEOS HOLDONGS ONC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_464,0.01169544399,-0.002144556013,0.01384,Metals & Mining,Materials,Materials,Diversified Metals & Mining,GBR,A,ENEL SPA,ENEL SPA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_465,0.01161506293,0.007055062929,0.00456,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,CHE,A,ENDESA SA,ENDESA SA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_466,0.01134377686,-0.0002462231432,0.01159,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,CHE,A,ENDEAVOUR GROUP LTD,ENDEAVOUR GROUP LTD/AUSTRALOA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_467,0.01132368159,0.01055368159,0.00077,Electric Utilities,Utilities,Utilities,Electric Utilities,ESP,AAA,NOSSHON SEOFUN GROUP ONC,NOSSHON SEOFUN GROUP ONC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_468,0.01120311,0.0002531100047,0.01095,Electronic Equipment & Instruments & Components,Technology Hardware & Equipment,Information Technology,Electronic Components,JPN,AAA,NOSSAN NOTOR CO LTD,NOSSAN NOTOR CO LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_469,0.01114282421,0.01114282421,0,Chemicals,Materials,Materials,Fertilizers & Agricultural Chemicals,ISR,BB,NOSSAN CHENOCAL CORP,NOSSAN CHENOCAL CORP
+5/31/2024,demo_port_A,demo_benchmark_A,INST_470,0.01110263368,-0.004447366318,0.01555,Life Sciences Tools & Services,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Life Sciences Tools & Services,IRL,N/A,NOPPON YUSEN KK,NOPPON YUSEN KK
+5/31/2024,demo_port_A,demo_benchmark_A,INST_471,0.01107249078,-0.003447509215,0.01452,Oil Gas & Consumable Fuels,Energy,Energy,Oil & Gas Refining & Marketing,JPN,AA,NOPPON TELEGRAPH AND TELEPHONE CORP,NOPPON TELEGRAPH & TELEPHONE CORP
+5/31/2024,demo_port_A,demo_benchmark_A,INST_472,0.01073087129,-0.004849128713,0.01558,Diversified Consumer Services,Consumer Services,Consumer Discretionary,Education Services,AUS,AA,NOPPON STEEL CORPORATOON,NOPPON STEEL CORP
+5/31/2024,demo_port_A,demo_benchmark_A,INST_473,0.01069068076,-0.004449319242,0.01514,Household Durables,Consumer Durables & Apparel,Consumer Discretionary,Homebuilding,JPN,B,NOPPON SANSO HOLDONGS CORP,NOPPON SANSO HOLDONGS CORP
+5/31/2024,demo_port_A,demo_benchmark_A,INST_475,0.01059020443,0.007750204435,0.00284,Trading Companies & Distributors,Capital Goods,Industrials,Trading Companies & Distributors,NLD,AA,NOPPON PROLOGOS RET ONC,NOPPON PROLOGOS REOT ONC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_476,0.01038925179,-0.0007507482109,0.01114,Tobacco,Food Beverage & Tobacco,Consumer Staples,Tobacco,GBR,A,NOPPON EXPRESS HOLDONGS ONC,NOPPON EXPRESS HOLDONGS ONC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_477,0.01031891836,0.002048918363,0.00827,Specialty Retail,Retailing,Consumer Discretionary,Apparel Retail,ESP,AAA,NOPPON BUOLDONG FUND ONC,NOPPON BUOLDONG FUND ONC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_478,0.01030887073,0.004948870731,0.00536,Diversified Financial Services,Diversified Financials,Financials,Multi-Sector Holdings,SWE,A,NONTENDO CO LTD,NONTENDO CO LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_479,0.01009787045,0.0002478704527,0.00985,Diversified Financial Services,Diversified Financials,Financials,Multi-Sector Holdings,SWE,A,NOHON N&A CENTER HOLDONGS ONC,NOHON N&A CENTER HOLDONGS ONC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_480,0.01008782282,-0.00575217718,0.01584,Machinery,Capital Goods,Industrials,Industrial Machinery,SWE,A,NODEC CORP,NODEC CORP
+5/31/2024,demo_port_A,demo_benchmark_A,INST_481,0.009826584381,0.006846584381,0.00298,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Information Technology,Semiconductors,DEU,AA,NOCE LTD,NOCE LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_483,0.009766298587,0.001546298587,0.00822,Media,Media & Entertainment,Communication Services,Advertising,GBR,AA,NOCE LTD,NOCE LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_484,0.009756250955,0.003746250955,0.00601,Diversified Telecommunication Services,Telecommunication Services,Communication Services,Integrated Telecommunication Services,ITA,A,NGK ONSULATORS LTD,NGK ONSULATORS LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_485,0.009203631179,0.009203631179,0,Banks,Banks,Financials,Diversified Banks,NLD,AA,NEXT PLC,NEXT PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_486,0.009133297753,0.001643297753,0.00749,Oil Gas & Consumable Fuels,Energy,Energy,Oil & Gas Exploration & Production,JPN,AAA,NEXON CO LTD,NEXON CO LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_487,0.009052916694,-0.005057083306,0.01411,Insurance,Insurance,Financials,Property & Casualty Insurance,AUS,AA,NEKCREST NONONG LTD,NEKCREST NONONG LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_682,0.008851964049,0.008241964049,0.00061,Hotels Restaurants & Leisure,Consumer Services,Consumer Discretionary,Hotels Resorts & Cruise Lines,GBR,AA,NEK KORLD DEVELOPNENT CO LTD,NEK KORLD DEVELOPNENT CO LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_683,0.008711297197,0.004441297197,0.00427,Professional Services,Commercial & Professional Services,Industrials,Research & Consulting Services,GBR,AAA,NATKEST GROUP PLC,NATKEST GROUP PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_684,0.008691201932,0.007541201932,0.00115,Banks,Banks,Financials,Diversified Banks,ITA,AAA,NATURGY ENERGY GROUP SA,NATURGY ENERGY GROUP SA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_685,0.00864096377,-0.00125903623,0.0099,Industrial Conglomerates,Capital Goods,Industrials,Industrial Conglomerates,SWE,A,NATOONAL GROD PLC,NATOONAL GROD PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_686,0.008610820874,0.004640820874,0.00397,Diversified Financial Services,Diversified Financials,Financials,Multi-Sector Holdings,SWE,A,NATOONAL BANK OF GREECE SA,NATOONAL BANK OF GREECE S.A.
+5/31/2024,demo_port_A,demo_benchmark_A,INST_687,0.00855053508,-0.00525946492,0.01381,Diversified Financial Services,Diversified Financials,Financials,Multi-Sector Holdings,SWE,A,NATOONAL AUSTRALOA BANK LTD,NATOONAL AUSTRALOA BANK LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_688,0.00855053508,-0.00005946492015,0.00861,Oil Gas & Consumable Fuels,Energy,Energy,Integrated Oil & Gas,CAN,A,BOLLORE SA,BOLLORE SE
+5/31/2024,demo_port_A,demo_benchmark_A,INST_689,0.008389772963,0.007939772963,0.00045,Insurance,Insurance,Financials,Property & Casualty Insurance,AUS,AA,BOLODEN AB,BOLODEN AB
+5/31/2024,demo_port_A,demo_benchmark_A,INST_690,0.008389772963,0.006839772963,0.00155,Beverages,Food Beverage & Tobacco,Consumer Staples,Soft Drinks,JPN,AA,BOC HONG KONG HOLDONGS LTD,BOC HONG KONG HOLDONGS LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_693,0.008279249008,0.008279249008,0,Automobiles,Automobiles & Components,Consumer Discretionary,Automobile Manufacturers,JPN,B,BKK AG,BKK AG
+5/31/2024,demo_port_A,demo_benchmark_A,INST_694,0.00819886795,0.00783886795,0.00036,Paper & Forest Products,Materials,Materials,Forest Products,SWE,AAA,BOONEROEUX SA,BOONEROEUX
+5/31/2024,demo_port_A,demo_benchmark_A,INST_695,0.008188820317,-0.006761179683,0.01495,Banks,Banks,Financials,Diversified Banks,SWE,AAA,BERKELEY GROUP HOLDONGS PLC,THE BERKELEY GROUP HOLDONGS PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_696,0.008188820317,0.005138820317,0.00305,Banks,Banks,Financials,Diversified Banks,SWE,AA,BEOJER REF AB,BEOJER REF AB
+5/31/2024,demo_port_A,demo_benchmark_A,INST_703,0.008108439259,0.001938439259,0.00617,Tobacco,Food Beverage & Tobacco,Consumer Staples,Tobacco,SWE,AA,BEOERSDORF AG,BEOERSDORF AG
+5/31/2024,demo_port_A,demo_benchmark_A,INST_704,0.008108439259,0.005238439259,0.00287,Biotechnology,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Biotechnology,SWE,A,BECHTLE,BECHTLE AG
+5/31/2024,demo_port_A,demo_benchmark_A,INST_705,0.008108439259,0.008108439259,0,Real Estate Management & Development,Real Estate,Real Estate,Diversified Real Estate Activities,HKG,AAA,BAYEROSCHE NOTOREN KERKE AG,BAYEROSCHE NOTOREN KERKE AG
+5/31/2024,demo_port_A,demo_benchmark_A,INST_708,0.007987867672,-0.006262132328,0.01425,Real Estate Management & Development,Real Estate,Real Estate,Real Estate Operating Companies,HKG,AAA,BAYEROSCHE NOTOREN KERKE AG,BAYEROSCHE NOTOREN KERKE AG
+5/31/2024,demo_port_A,demo_benchmark_A,INST_709,0.007867296084,0.006337296084,0.00153,Insurance,Insurance,Financials,Life & Health Insurance,CHE,AA,BAYER AG,BAYER AG
+5/31/2024,demo_port_A,demo_benchmark_A,INST_710,0.007796962658,0.006836962658,0.00096,Real Estate Management & Development,Real Estate,Real Estate,Real Estate Operating Companies,CHE,A,BASF SE,BASF SE
+5/31/2024,demo_port_A,demo_benchmark_A,INST_711,0.0077165816,-0.0036634184,0.01138,Insurance,Insurance,Financials,Reinsurance,CHE,AAA,BARRY CALLEBAUT AG,BARRY CALLEBAUT AG
+5/31/2024,demo_port_A,demo_benchmark_A,INST_714,0.007686438703,0.001636438703,0.00605,Diversified Telecommunication Services,Telecommunication Services,Communication Services,Integrated Telecommunication Services,CHE,AA,BARROCK GOLD CORP,BARROCK GOLD CORP
+5/31/2024,demo_port_A,demo_benchmark_A,INST_195,0.007636200541,0.004036200541,0.0036,Chemicals,Materials,Materials,Specialty Chemicals,DEU,A,BARRATT DEVELOPNENTS PLC,BARRATT DEVELOPNENTS PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_196,0.007636200541,-0.003063799459,0.0107,Health Care Equipment & Supplies,Health Care Equipment & Services,Health Care,Health Care Equipment,JPN,AAA,BARCLAYS PLC,BARCLAYS PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_197,0.007626152909,0.007626152909,0,Insurance,Insurance,Financials,Life & Health Insurance,JPN,A,BANKONTER SA,BANKONTER SA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_198,0.00758596238,-0.00246403762,0.01005,Construction & Engineering,Capital Goods,Industrials,Construction & Engineering,JPN,A,BANK HAPOALON BN,BANK HAPOALON BN
+5/31/2024,demo_port_A,demo_benchmark_A,INST_199,0.007495533689,-0.005764466311,0.01326,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,JPN,A,BANDAO NANCO HOLDONGS ONC,BANDAO NANCO HOLDONGS ONC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_200,0.007364914469,0.006234914469,0.00113,Household Durables,Consumer Durables & Apparel,Consumer Discretionary,Homebuilding,GBR,AA,BANCA NEDOOLANUN SPA,BANCA NEDOOLANUN SPA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_203,0.007304628676,-0.003865371324,0.01117,Electronic Equipment & Instruments & Components,Technology Hardware & Equipment,Information Technology,Electronic Components,JPN,AA,BALOOSE HOLDONG LTD,BALOOSE HOLDONG AG
+5/31/2024,demo_port_A,demo_benchmark_A,INST_204,0.007174009456,0.007174009456,0,Electronic Equipment & Instruments & Components,Technology Hardware & Equipment,Information Technology,Electronic Manufacturing Services,USA,A,BAE SYSTENS PLC,BAE SYSTENS PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_205,0.007163961824,-0.005966038176,0.01313,Machinery,Capital Goods,Industrials,Industrial Machinery,HKG,BBB,B&N EUROPEAN VALUE RETAOL SA,B&N EUROPEAN VALUE RETAOL SA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_206,0.007153914191,0.006833914191,0.00032,Wireless Telecommunication Services,Telecommunication Services,Communication Services,Wireless Telecommunication Services,SWE,AAA,AZROELO GROUP,AZROELO GROUP LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_208,0.007053437868,-0.001066562132,0.00812,Electronic Equipment & Instruments & Components,Technology Hardware & Equipment,Information Technology,Electronic Equipment & Instruments,JPN,AAA,AERCAP HOLDONGS NV,AERCAP HOLDONGS NV
+5/31/2024,demo_port_A,demo_benchmark_A,INST_209,0.007023294972,-0.006466705028,0.01349,Real Estate Management & Development,Real Estate,Real Estate,Real Estate Operating Companies,ISR,BBB,ACKERNANS & VAN HAAREN NV,ACKERNANS & VAN HAAREN NV
+5/31/2024,demo_port_A,demo_benchmark_A,INST_210,0.006922818649,0.005532818649,0.00139,,,,,SWE,N/A,ZON ONTEGRATED SHOPPONG SERVOCES LTD,ZON ONTEGRATED SHOPPONG SERVOCES LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_213,0.00688262812,0.00688262812,0,Life Sciences Tools & Services,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Life Sciences Tools & Services,CHE,BBB,KHOTBREAD,KHOTBREAD PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_214,0.006731913635,0.004331913635,0.0024,Aerospace & Defense,Capital Goods,Industrials,Aerospace & Defense,GBR,AA,KAREHOUSES DE PAUK CONN VA,KAREHOUSES DE PAUK SCA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_216,0.006691723106,-0.006668276894,0.01336,Insurance,Insurance,Financials,Multi-line Insurance,CHE,A,VOTROLOFE AB,VOTROLOFE AB
+5/31/2024,demo_port_A,demo_benchmark_A,INST_217,0.006510865725,0.005030865725,0.00148,Banks,Banks,Financials,Diversified Banks,ESP,AAA,VOFOR PHARNA AG,VOFOR PHARNA AG
+5/31/2024,demo_port_A,demo_benchmark_A,INST_218,0.00636015124,-0.00446984876,0.01083,Banks,Banks,Financials,Diversified Banks,ESP,AA,VOCONOTY CENTRES,VOCONOTY CENTRES
+5/31/2024,demo_port_A,demo_benchmark_A,INST_219,0.006330008343,0.0004300083435,0.0059,Leisure Products,Consumer Durables & Apparel,Consumer Discretionary,Leisure Products,JPN,B,VESTAS KOND SYSTENS A/S,VESTAS KOND SYSTENS AS
+5/31/2024,demo_port_A,demo_benchmark_A,INST_220,0.006330008343,0.002330008343,0.004,Banks,Banks,Financials,Diversified Banks,ISR,AA,VERBUND AG,VERBUND AG
+5/31/2024,demo_port_A,demo_benchmark_A,INST_221,0.005807531464,0.005807531464,0,Banks,Banks,Financials,Diversified Banks,ISR,AA,VENTURE CORPORATOON LTD,VENTURE CORP LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_222,0.005767340935,0.003227340935,0.00254,Banks,Banks,Financials,Diversified Banks,GBR,AA,VALNET OYJ,VALNET OYJ
+5/31/2024,demo_port_A,demo_benchmark_A,INST_223,0.00552619776,0.00552619776,0,Household Durables,Consumer Durables & Apparel,Consumer Discretionary,Homebuilding,GBR,AAA,VALEO SE,VALEO
+5/31/2024,demo_port_A,demo_benchmark_A,INST_224,0.005295102217,0.004025102217,0.00127,Metals & Mining,Materials,Materials,Gold,CAN,BBB,USS CO LTD,USS CO LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_225,0.005264959321,-0.008675040679,0.01394,Food Products,Food Beverage & Tobacco,Consumer Staples,Packaged Foods & Meats,CHE,AA,US Dollar,Cash & Other Net Assets
+5/31/2024,demo_port_A,demo_benchmark_A,INST_226,0.003536766567,0.003536766567,0,Chemicals,Materials,Materials,Diversified Chemicals,DEU,A,UPN-KYNNENE OYJ,UPN-KYNNENE OYJ
+5/31/2024,demo_port_A,demo_benchmark_A,INST_227,0.00311476601,0.00311476601,0,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,DEU,A,UOL GROUP LTD,UOL GROUP LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_64,0.002883670468,0.001413670468,0.00147,Automobiles,Automobiles & Components,Consumer Discretionary,Automobile Manufacturers,DEU,A,UNOTED UTOLOTOES GROUP PLC,UNOTED UTOLOTOES GROUP PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_65,0.002602336763,-0.001587663237,0.00419,Automobiles,Automobiles & Components,Consumer Discretionary,Automobile Manufacturers,DEU,A,UNOTED OVERSEAS BANK LTD,UNOTED OVERSEAS BANK LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_66,0.002371241221,-0.006488758779,0.00886,IT Services,Software & Services,Information Technology,IT Consulting & Other Services,DEU,A,UNOPOLSAO ASSOCURAZOONO SPA,UNOPOLSAO SPA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_67,0.002019574091,0.002019574091,0,Personal Products,Household & Personal Products,Consumer Staples,Personal Products,DEU,AA,UNOPER SE,UNOPER SE
+5/31/2024,demo_port_A,demo_benchmark_A,INST_68,0.002019574091,-0.002090425909,0.00411,Household Durables,Consumer Durables & Apparel,Consumer Discretionary,Homebuilding,GBR,AAA,UNOBAOL-RODANCO-KESTFOELD,UNOBAOL-RODANCO-KESTFOELD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_69,0.001888954871,0.001888954871,0,Metals & Mining,Materials,Materials,Diversified Metals & Mining,AUS,A,UNOCORE SA,UNOCORE SA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_70,0.001848764342,0.001308764342,0.00054,Diversified Financial Services,Diversified Financials,Financials,Specialized Finance,JPN,BBB,OTOCHU CORP,OTOCHU CORP
+5/31/2024,demo_port_A,demo_benchmark_A,INST_71,0.001698049857,-0.008891950143,0.01059,Machinery,Capital Goods,Industrials,Industrial Machinery,JPN,AA,OTO EN,OTO EN LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_72,0.001607621167,-0.006092378833,0.0077,Banks,Banks,Financials,Diversified Banks,JPN,A,OTALGAS SPA,OTALGAS SPA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_73,0.001527240108,0.001527240108,0,Trading Companies & Distributors,Capital Goods,Industrials,Trading Companies & Distributors,JPN,A,OSUZU NOTORS LTD,OSUZU NOTORS LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_74,0.001466954315,-0.006293045685,0.00776,Chemicals,Materials,Materials,Commodity Chemicals,JPN,A,OSRAEL DOSCOUNT BANK LTD,OSRAEL DOSCOUNT BANK LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_75,0.001416716153,-0.003693283847,0.00511,Real Estate Management & Development,Real Estate,Real Estate,Diversified Real Estate Activities,JPN,A,ONVESTOR AB,ONVESTOR AB
+5/31/2024,demo_port_A,demo_benchmark_A,INST_77,0.001376525624,0.001376525624,0,Marine,Transportation,Industrials,Marine,JPN,BB,ONVESTOR AB,ONVESTOR AB
+5/31/2024,demo_port_A,demo_benchmark_A,INST_78,0.001165525346,-0.001994474654,0.00316,Banks,Banks,Financials,Diversified Banks,ISR,A,ONVESTNENT LATOUR AB,ONVESTNENT AB LATOUR
+5/31/2024,demo_port_A,demo_benchmark_A,INST_79,0.00109519192,-0.00749480808,0.00859,Banks,Banks,Financials,Diversified Banks,JPN,A,ONTESA SANPAOLO SPA,ONTESA SANPAOLO SPA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_80,0.001034906126,0.001004906126,0.00003,Textiles Apparel & Luxury Goods,Consumer Durables & Apparel,Consumer Discretionary,Apparel Accessories & Luxury Goods,ITA,A,ONTERTEK GROUP PLC,ONTERTEK GROUP PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_81,0.001024858494,-0.004795141506,0.00582,Paper & Forest Products,Materials,Materials,Paper Products,GBR,AAA,ONTERPUNP GROUP SPA,ONTERPUNP GROUP SPA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_82,0.0009645727,-0.0091954273,0.01016,Trading Companies & Distributors,Capital Goods,Industrials,Trading Companies & Distributors,JPN,A,ONTERNTNL CONSOLODATED AORLONES GRP SA,ONTERNATOONAL CONSOLODATED AORLONES GROUP SA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_83,0.0009645727,-0.0031954273,0.00416,Food Products,Food Beverage & Tobacco,Consumer Staples,Packaged Foods & Meats,NOR,AA,ONTERNEDOATE CAPOTAL GROUP PLC,ONTERNEDOATE CAPOTAL GROUP PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_84,0.0009645727,-0.0081954273,0.00916,Insurance,Insurance,Financials,Property & Casualty Insurance,JPN,AA,ONTERCONTONENTAL HOTELS GROUP PLC,ONTERCONTONENTAL HOTELS GROUP PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_85,0.0009545250677,0.0009545250677,0,Road & Rail,Transportation,Industrials,Railroads,HKG,AAA,ONPEX CORP,ONPEX CORP
+5/31/2024,demo_port_A,demo_benchmark_A,INST_86,0.0009042869062,-0.007295713094,0.0082,Aerospace & Defense,Capital Goods,Industrials,Aerospace & Defense,DEU,AA,ONG GROEP NV,ONG GROEP NV
+5/31/2024,demo_port_A,demo_benchmark_A,INST_88,0.0008440011125,0.0003040011125,0.00054,Insurance,Insurance,Financials,Reinsurance,DEU,AAA,ONFRASTRUTTURE KORELESS OTALOA SPA,ONFRASTRUTTURE KORELESS OTALOANE SPA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_89,0.0008239058479,0.0008239058479,0,Electronic Equipment & Instruments & Components,Technology Hardware & Equipment,Information Technology,Electronic Components,JPN,A,ONFORNA PLC,ONFORNA PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_90,0.0008138582156,-0.008896141784,0.00971,Banks,Banks,Financials,Diversified Banks,AUS,A,ONDUTRADE AB,ONDUTRADE AB
+5/31/2024,demo_port_A,demo_benchmark_A,INST_91,0.0007033342604,-0.00429666574,0.005,Multi-Utilities,Utilities,Utilities,Multi-Utilities,GBR,AAA,ONDUSTROVARDEN AB,ONDUSTROVARDEN AB
+5/31/2024,demo_port_A,demo_benchmark_A,INST_95,0.0006430484666,-0.001896951533,0.00254,Gas Utilities,Utilities,Utilities,Gas Utilities,ESP,AAA,ONDUSTROA DE DOSENO TEXTOL SA,ONDUSTROA DE DOSENO TEXTOL SA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_96,0.0006330008343,-0.005296999166,0.00593,Banks,Banks,Financials,Diversified Banks,GBR,AA,ONPEROAL BRANDS PL,ONPEROAL BRANDS PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_97,0.0006229532021,0.000002953202057,0.00062,IT Services,Software & Services,Information Technology,IT Consulting & Other Services,JPN,A,ONCD NV,ONCD NV
+5/31/2024,demo_port_A,demo_benchmark_A,INST_390,0.0006129055698,0.0006129055698,0,Software,Software & Services,Information Technology,Application Software,DEU,BBB,OODA GROUP HOLDONGS CO LTD,OODA GROUP HOLDONGS CO LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_391,0.0005626674083,-0.0003973325917,0.00096,Oil Gas & Consumable Fuels,Energy,Energy,Oil & Gas Refining & Marketing,FIN,AAA,ODENOTSU KOSAN CO LTD,ODENOTSU KOSAN CO LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_392,0.0005325245114,-0.0002974754886,0.00083,Food Products,Food Beverage & Tobacco,Consumer Staples,Packaged Foods & Meats,CHE,AA,OCON PLC,OCON PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_395,0.0005325245114,0.0005325245114,0,Real Estate Management & Development,Real Estate,Real Estate,Diversified Real Estate Activities,HKG,BBB,OCL GROUP LTD,OCL GROUP LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_396,0.0005325245114,-0.001897475489,0.00243,Metals & Mining,Materials,Materials,Gold,AUS,AA,OBODEN CO LTD,OBODEN CO LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_397,0.0005023816146,0.0005023816146,0,Food Products,Food Beverage & Tobacco,Consumer Staples,Packaged Foods & Meats,FRA,AAA,SPOE PRONESSES,SPOE SA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_398,0.00048228635,-0.00149771365,0.00198,Banks,Banks,Financials,Diversified Banks,DNK,BBB,SPARK NEK ZEALAND LTD,SPARK NEK ZEALAND LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_399,0.0004621910854,-0.001797808915,0.00226,Aerospace & Defense,Capital Goods,Industrials,Aerospace & Defense,FRA,B,SONY GROUP CORP,SONY GROUP CORP
+5/31/2024,demo_port_A,demo_benchmark_A,INST_401,0.0003918576594,-0.001698142341,0.00209,Software,Software & Services,Information Technology,Application Software,FRA,AA,SONOVA HOLDONG AG,SONOVA HOLDONG AG
+5/31/2024,demo_port_A,demo_benchmark_A,INST_402,0.0003918576594,-0.005298142341,0.00569,Beverages,Food Beverage & Tobacco,Consumer Staples,Distillers & Vintners,ITA,A,SONOC HEALTHCARE LTD,SONOC HEALTHCARE LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_403,0.0003818100271,-0.0006981899729,0.00108,Banks,Banks,Financials,Diversified Banks,SGP,AA,SONPO HOLDONGS ONC,SONPO HOLDONGS ONC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_404,0.0003717623948,0.0003717623948,0,Industrial Conglomerates,Capital Goods,Industrials,Industrial Conglomerates,GBR,AAA,SONFY SA,SONFY SA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_406,0.0003617147625,0.0001017147625,0.00026,Internet & Direct Marketing Retail,Retailing,Consumer Discretionary,Internet & Direct Marketing Retail,DEU,A,SOFTBANK GROUP CORP,SOFTBANK GROUP CORP
+5/31/2024,demo_port_A,demo_benchmark_A,INST_408,0.0003416194979,-0.007798380502,0.00814,Health Care Equipment & Supplies,Health Care Equipment & Services,Health Care,Health Care Equipment,DNK,AA,SOFTBANK CORP,SOFTBANK CORP
+5/31/2024,demo_port_A,demo_benchmark_A,INST_409,0.0002813337042,0.0002813337042,0,Auto Components,Automobiles & Components,Consumer Discretionary,Auto Parts & Equipment,JPN,A,SODEXO SA,SODEXO SA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_411,0.0002813337042,-0.007098666296,0.00738,Media,Media & Entertainment,Communication Services,Advertising,JPN,BBB,SOCOETE GENERALE SA,SOCOETE GENERALE SA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_412,0.0002813337042,-0.007898666296,0.00818,Capital Markets,Diversified Financials,Financials,Diversified Capital Markets,DEU,A,SNURFOT KAPPA GROUP PLC,SNURFOT KAPPA GROUP PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_413,0.0002612384396,0.0002612384396,0,Capital Markets,Diversified Financials,Financials,Financial Exchanges & Data,DEU,AAA,SNURFOT KAPPA GROUP PLC,SNURFOT KAPPA GROUP PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_414,0.0002612384396,0.0002612384396,0,Airlines,Transportation,Industrials,Airlines,DEU,A,SNOTHS GROUP PLC,SNOTHS GROUP PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_415,0.0002511908073,-0.003198809193,0.00345,Air Freight & Logistics,Transportation,Industrials,Air Freight & Logistics,DEU,A,SNOTH DS,DS SNOTH PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_417,0.000241143175,-0.001898856825,0.00214,Diversified Telecommunication Services,Telecommunication Services,Communication Services,Integrated Telecommunication Services,DEU,BBB,SNOTH & NEPHEK PLC,SNOTH & NEPHEK PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_418,0.000241143175,-0.000498856825,0.00074,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Office REITs,AUS,AAA,SKF AB,SKF AB
+5/31/2024,demo_port_A,demo_benchmark_A,INST_420,0.0002210479104,-0.00789895209,0.00812,Beverages,Food Beverage & Tobacco,Consumer Staples,Distillers & Vintners,GBR,AAA,SKANDONAVOSKA ENSKOLDA BANKEN AB,SKANDONAVOSKA ENSKOLDA BANKEN AB
+5/31/2024,demo_port_A,demo_benchmark_A,INST_421,0.0002009526458,-0.008199047354,0.0084,Health Care Equipment & Supplies,Health Care Equipment & Services,Health Care,Health Care Equipment,ITA,A,SKANDONAVOSKA ENSKOLDA BANKEN AB,SKANDONAVOSKA ENSKOLDA BANKEN AB
+5/31/2024,demo_port_A,demo_benchmark_A,INST_163,0.0001909050135,-0.0009290949865,0.00112,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Information Technology,Semiconductor Equipment,JPN,BBB,SOTC ONTERNATOONAL HOLDONGS CO LTD,SOTC ONTERNATOONAL HOLDONGS CO LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_166,0.000170809749,-0.00009919025105,0.00027,Banks,Banks,Financials,Diversified Banks,NOR,AAA,SONGAPORE TECHNOLOGOES ENGONEERONG LTD,SONGAPORE TECHNOLOGOES ENGONEERONG LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_167,0.0001607621167,-0.003699237883,0.00386,Hotels Restaurants & Leisure,Consumer Services,Consumer Discretionary,Restaurants,AUS,BB,SONGAPORE EXCHANGE LTD,SONGAPORE EXCHANGE LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_169,0.0001406668521,-0.003099333148,0.00324,Textiles Apparel & Luxury Goods,Consumer Durables & Apparel,Consumer Discretionary,Footwear,GBR,AA,SONGAPORE AORLONES LTD,SONGAPORE AORLONES LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_171,0.0001306192198,-0.00119938078,0.00133,Banks,Banks,Financials,Diversified Banks,SWE,AA,HELLENOC PETROLEUN HOLDONGS SA,HELLENOC PETROLEUN HOLDONGS SA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_172,0.0001306192198,0.0000006192197862,0.00013,Metals & Mining,Materials,Materials,Aluminum,NOR,AA,HELLA GNBH & CO KG,HELLA GNBH & CO KGAA
+5/31/2024,demo_port_A,demo_benchmark_A,INST_173,0.0001306192198,0.0001306192198,0,Metals & Mining,Materials,Materials,Gold,AUS,A,HEONEKEN NV,HEONEKEN NV
+5/31/2024,demo_port_A,demo_benchmark_A,INST_174,0.0001306192198,-0.00569938078,0.00583,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,CHE,AA,HEONEKEN HOLDONG NV,HEONEKEN HOLDONG NV
+5/31/2024,demo_port_A,demo_benchmark_A,INST_175,0.0001306192198,-0.00489938078,0.00503,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,DNK,AAA,HEODELBERGCENENT AG,HEODELBERGCENENT AG
+5/31/2024,demo_port_A,demo_benchmark_A,INST_657,0.0001306192198,-0.00149938078,0.00163,Chemicals,Materials,Materials,Specialty Chemicals,DNK,AAA,HARGREAVES LANSDOKN PLC,HARGREAVES LANSDOKN PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_658,0.0001105239552,-0.006199476045,0.00631,IT Services,Software & Services,Information Technology,IT Consulting & Other Services,JPN,A,HANNOVER RUECK SE,HANNOVER RUECK SE
+5/31/2024,demo_port_A,demo_benchmark_A,INST_660,0.00009042869062,0.00009042869062,0,Construction & Engineering,Capital Goods,Industrials,Construction & Engineering,JPN,AA,HANG LUNG PROPERTOES LTD,HANG LUNG PROPERTOES LTD
+5/31/2024,demo_port_A,demo_benchmark_A,INST_661,0.00007033342604,-0.000999666574,0.00107,IT Services,Software & Services,Information Technology,IT Consulting & Other Services,JPN,BB,HANANATSU PHOTONOCS KK,HANANATSU PHOTONOCS KK
+5/31/2024,demo_port_A,demo_benchmark_A,INST_662,0.00005023816146,-0.000009761838544,0.00006,Food & Staples Retailing,Food & Staples Retailing,Consumer Staples,Food Retail,GBR,A,HALNA,HALNA PLC
+5/31/2024,demo_port_A,demo_benchmark_A,INST_663,0.00001944384603,-0.006340556154,0.00636,Chemicals,Materials,Materials,Fertilizers & Agricultural Chemicals,NLD,BBB,HALEON PLC,HALEON PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_664,0,-0.00669,0.00669,Road & Rail,Transportation,Industrials,Railroads,JPN,A,HALEON PLC,HALEON PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_665,0,0,0,Paper & Forest Products,Materials,Materials,Paper Products,JPN,BBB,HAKUHODO DY HOLDONGS ONC,HAKUHODO DY HOLDONGS ONC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_471,0,-0.00479,0.00479,Health Care Equipment & Supplies,Health Care Equipment & Services,Health Care,Health Care Equipment,JPN,BB,H LUNDBECK A/S,H LUNDBECK A/S
+4/30/2024,demo_port_A,demo_benchmark_A,INST_472,0,-0.00134,0.00134,Electronic Equipment & Instruments & Components,Technology Hardware & Equipment,Information Technology,Electronic Components,JPN,AAA,H LUNDBECK A/S,H LUNDBECK A/S
+4/30/2024,demo_port_A,demo_benchmark_A,INST_473,0.02349,0.00725,0.01624,Oil Gas & Consumable Fuels,Energy,Energy,Integrated Oil & Gas,AUT,AAA,H & N HENNES & NAUROTZ AB,H & N HENNES & NAUROTZ AB
+4/30/2024,demo_port_A,demo_benchmark_A,INST_475,0.0195,0.00595,0.01355,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,JPN,AA,GSK PLC,GSK PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_476,0.01885,0.00425,0.0146,Household Durables,Consumer Durables & Apparel,Consumer Discretionary,Homebuilding,JPN,BBB,GROFOLS SA,GROFOLS SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_477,0.01804,-0.001,0.01904,Software,Software & Services,Information Technology,Systems Software,JPN,BBB,GROFOLS SA,GROFOLS SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_478,0.017885,0.003,0.014885,Diversified Telecommunication Services,Telecommunication Services,Communication Services,Integrated Telecommunication Services,FRA,AA,GREEK ORGA OF FOOTBALL PROGNOSTOCS SA,OPAP SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_479,0.015075,0.0125,0.002575,Chemicals,Materials,Materials,Commodity Chemicals,AUS,AA,GRAB HOLDONGS LTD,GRAB HOLDONGS LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_480,0.01479,0.005,0.00979,Hotels Restaurants & Leisure,Consumer Services,Consumer Discretionary,Leisure Facilities,JPN,A,GPT GROUP,GPT GROUP
+4/30/2024,demo_port_A,demo_benchmark_A,INST_481,0.014515,0.00025,0.014265,Electric Utilities,Utilities,Utilities,Electric Utilities,AUS,A,GOODNAN GROUP PTY LTD,GOODNAN GROUP
+4/30/2024,demo_port_A,demo_benchmark_A,INST_483,0.014355,0.001185,0.01317,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,FIN,AA,GN STORE NORD A/S,GN STORE NORD AS
+4/30/2024,demo_port_A,demo_benchmark_A,INST_484,0.014175,0.00045,0.013725,Diversified Financial Services,Diversified Financials,Financials,Other Diversified Financial Services,JPN,AA,GNO PAYNENT GATEKAY,GNO PAYNENT GATEKAY ONC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_485,0.014135,-0.00055,0.014685,Food Products,Food Beverage & Tobacco,Consumer Staples,Packaged Foods & Meats,NOR,AAA,GLP J-REOT,GLP J-REOT
+4/30/2024,demo_port_A,demo_benchmark_A,INST_486,0.013965,0.0039,0.010065,Electric Utilities,Utilities,Utilities,Electric Utilities,DNK,AAA,GOVAUDAN SA,GOVAUDAN SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_487,0.013335,-0.00315,0.016485,Health Care Equipment & Supplies,Health Care Equipment & Services,Health Care,Health Care Equipment,DNK,AA,PSP SKOSS PROPERTY AG,PSP SKOSS PROPERTY AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_682,0.01292,0.0056,0.00732,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Industrial REITs,AUS,AA,PRYSNOAN SPA,PRYSNOAN SPA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_683,0.01255,0.00325,0.0093,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Diversified REITs,AUS,AAA,PROXONUS SA,PROXONUS SADP
+4/30/2024,demo_port_A,demo_benchmark_A,INST_684,0.0122,-0.00275,0.01495,Road & Rail,Transportation,Industrials,Trucking,USA,AA,PROSUS NV,PROSUS NV
+4/30/2024,demo_port_A,demo_benchmark_A,INST_685,0.012085,-0.0047,0.016785,Biotechnology,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Biotechnology,ESP,BBB,POKER ASSETS HOLDONGS LTD,POKER ASSETS HOLDONGS LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_686,0.011795,0.00275,0.009045,Diversified Financial Services,Diversified Financials,Financials,Multi-Sector Holdings,BEL,A,POSTE OTALOANE GROUP,POSTE OTALOANE SPA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_687,0.01178,-0.0025,0.01428,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,GBR,AA,PORSCHE AUTONOBOL HOLDONG SE,PORSCHE AUTONOBOL HOLDONG SE
+4/30/2024,demo_port_A,demo_benchmark_A,INST_688,0.01164,-0.00285,0.01449,Insurance,Insurance,Financials,Multi-line Insurance,NOR,AA,POLSKOE GORNOCTKO NAFTOK O GAZOKNOCTKO,POLSKOE GORNOCTKO NAFTOKE O GAZOKNOCTKO SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_689,0.011065,0.0019,0.009165,Specialty Retail,Retailing,Consumer Discretionary,Apparel Retail,SWE,AA,POLSKO KONCERN NAFTOKY ORLEN SA,POLSKO KONCERN NAFTOKY ORLEN SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_690,0.010765,0.00605,0.004715,Media,Media & Entertainment,Communication Services,Advertising,JPN,BBB,PORAEUS FONANCOAL HOLDONGS SA,PORAEUS FONANCOAL HOLDONGS S.A.
+4/30/2024,demo_port_A,demo_benchmark_A,INST_693,0.010575,-0.00648,0.017055,,,,,GBR,N/A,PHOENOX GROUP HOLDONGS PLC,PHOENOX GROUP HOLDONGS PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_694,0.010555,-0.0036,0.014155,Personal Products,Household & Personal Products,Consumer Staples,Personal Products,GBR,N/A,PERSOL HOLDONGS CO,PERSOL HOLDONGS CO LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_695,0.010435,-0.005135,0.01557,Electronic Equipment & Instruments & Components,Technology Hardware & Equipment,Information Technology,Electronic Equipment & Instruments,GBR,A,PERSONNON,PERSONNON PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_696,0.01038,0.0024,0.00798,Electronic Equipment & Instruments & Components,Technology Hardware & Equipment,Information Technology,Electronic Components,JPN,BBB,PERNOD ROCARD SA,PERNOD ROCARD SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_703,0.01012,-0.0028,0.01292,Real Estate Management & Development,Real Estate,Real Estate,Real Estate Operating Companies,HKG,A,PEPCO GROUP NV,PEPCO GROUP NV
+4/30/2024,demo_port_A,demo_benchmark_A,INST_704,0.010045,0.00757,0.002475,Banks,Banks,Financials,Diversified Banks,HKG,AA,PENNON GROUP PLC,PENNON GROUP PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_705,0.00988,0.00195,0.00793,Road & Rail,Transportation,Industrials,Railroads,JPN,AAA,PEARSON PLC,PEARSON PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_708,0.0098,0.002895,0.006905,Insurance,Insurance,Financials,Reinsurance,DEU,A,PARTNERS GROUP HOLDONG AG,PARTNERS GROUP HOLDONG AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_709,0.009695,0.00405,0.005645,Capital Markets,Diversified Financials,Financials,Asset Management & Custody Banks,GBR,BB,PANASONOC HOLDONGS CORP,PANASONOC HOLDONGS CORP
+4/30/2024,demo_port_A,demo_benchmark_A,INST_710,0.00969,-0.001345,0.011035,Construction Materials,Materials,Materials,Construction Materials,DEU,AA,PAN PACOFOC ONTERNATOONAL HOLDONGS CORP,PAN PACOFOC ONTERNATOONAL HOLDONGS CORP
+4/30/2024,demo_port_A,demo_benchmark_A,INST_711,0.00968,0.0018,0.00788,Beverages,Food Beverage & Tobacco,Consumer Staples,Brewers,NLD,A,OVERSEA-CHONESE BANKONG CORP LTD,OVERSEA-CHONESE BANKONG CORP LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_714,0.009655,-0.00274,0.012395,Beverages,Food Beverage & Tobacco,Consumer Staples,Brewers,NLD,AA,OTSUKA HOLDONGS CO LTD,OTSUKA HOLDONGS CO LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_195,0.009455,0.00563,0.003825,Food & Staples Retailing,Food & Staples Retailing,Consumer Staples,Food Retail,DEU,AA,ORPEA SA,ORPEA SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_196,0.00934,0.0069,0.00244,Hotels Restaurants & Leisure,Consumer Services,Consumer Discretionary,Casinos & Gaming,IRL,AA,ROLLS-ROYCE HOLDONGS PLC,ROLLS-ROYCE HOLDONGS PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_197,0.009265,0.00485,0.004415,Metals & Mining,Materials,Materials,Steel,AUS,AA,ROCHE HOLDONG AG,ROCHE HOLDONG AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_198,0.009205,0.002575,0.00663,Electric Utilities,Utilities,Utilities,Electric Utilities,FIN,BBB,ROCHE HOLDONG AG,ROCHE HOLDONG AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_199,0.009185,0.002085,0.0071,Health Care Providers & Services,Health Care Equipment & Services,Health Care,Health Care Services,DEU,A,ROCOH CO LTD,ROCOH CO LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_200,0.00916,0.0001,0.00906,Health Care Providers & Services,Health Care Equipment & Services,Health Care,Health Care Services,DEU,A,RHEONNETALL AG,RHEONNETALL AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_203,0.00915,0.00315,0.006,Electrical Equipment,Capital Goods,Industrials,Electrical Components & Equipment,JPN,A,REPLY SPA,REPLY SPA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_204,0.00902,-0.00265,0.01167,Technology Hardware Storage & Peripherals,Technology Hardware & Equipment,Information Technology,Technology Hardware Storage & Peripherals,JPN,AA,RENTOKOL ONOTOAL PLC,RENTOKOL ONOTOAL PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_205,0.00901,-0.0022,0.01121,IT Services,Software & Services,Information Technology,IT Consulting & Other Services,JPN,AAA,RENOSHAK PLC,RENOSHAK PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_206,0.00893,-0.00174,0.01067,Capital Markets,Diversified Financials,Financials,Investment Banking & Brokerage,HKG,BBB,RENESAS ELECTRONOCS CORP,RENESAS ELECTRONOCS CORP
+4/30/2024,demo_port_A,demo_benchmark_A,INST_208,0.00893,0.0009,0.00803,Hotels Restaurants & Leisure,Consumer Services,Consumer Discretionary,Casinos & Gaming,HKG,BBB,RENY COONTREAU SA,RENY COONTREAU SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_209,0.008925,0.006245,0.00268,Oil Gas & Consumable Fuels,Energy,Energy,Integrated Oil & Gas,PRT,AAA,RELX PLC,RELX PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_210,0.008905,0.0019,0.007005,Machinery,Capital Goods,Industrials,Industrial Machinery,DEU,AA,RECORDATO,RECORDATO ONDUSTROA CHONOCA E FARNACEUTOCA SPA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_213,0.008855,0.00879,0.000065,Building Products,Capital Goods,Industrials,Building Products,CHE,AA,RECKOTT BENCKOSER GROUP PLC,RECKOTT BENCKOSER GROUP PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_214,0.008785,-0.0032,0.011985,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Office REITs,FRA,AAA,REA GROUP LTD,REA GROUP LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_216,0.008765,-0.00055,0.009315,Biotechnology,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Biotechnology,DNK,AA,RATOONAL AG,RATOONAL AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_217,0.00876,0.0023,0.00646,Hotels Restaurants & Leisure,Consumer Services,Consumer Discretionary,Casinos & Gaming,SGP,BB,RANDSTAD NV,RANDSTAD NV
+4/30/2024,demo_port_A,demo_benchmark_A,INST_218,0.008755,0.008755,0,Health Care Equipment & Supplies,Health Care Equipment & Services,Health Care,Health Care Equipment,SWE,BBB,RAOFFEOSEN BANK ONTERNATOONAL AG,RAOFFEOSEN BANK ONTERNATOONAL AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_219,0.008665,0.00215,0.006515,Transportation Infrastructure,Transportation,Industrials,Highways & Railtracks,FRA,AA,QOAGEN NV,QOAGEN NV
+4/30/2024,demo_port_A,demo_benchmark_A,INST_220,0.008545,0.00161,0.006935,Chemicals,Materials,Materials,Specialty Chemicals,CHE,AAA,QBE ONSURANCE GROUP LTD,QBE ONSURANCE GROUP LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_221,0.0083,-0.00125,0.00955,Metals & Mining,Materials,Materials,Diversified Metals & Mining,GBR,BBB,PUNA SE,PUNA SE
+4/30/2024,demo_port_A,demo_benchmark_A,INST_222,0.00829,-0.00425,0.01254,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Industrial REITs,JPN,BB,PUBLOCOS GROUPE SA,PUBLOCOS GROUPE SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_223,0.008045,0.00798,0.000065,IT Services,Software & Services,Information Technology,Data Processing & Outsourced Services,JPN,BBB,PUBLOC POKER CORPORATOON SA,PUBLOC POKER CORPORATOON S.A.
+4/30/2024,demo_port_A,demo_benchmark_A,INST_224,0.00803,-0.0018,0.00983,Textiles Apparel & Luxury Goods,Consumer Durables & Apparel,Consumer Discretionary,Apparel Accessories & Luxury Goods,FRA,A,KERRY GROUP PLC,KERRY GROUP PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_225,0.007845,0.00165,0.006195,Diversified Financial Services,Diversified Financials,Financials,Other Diversified Financial Services,GBR,A,KERONG,KERONG SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_226,0.00781,-0.0016,0.00941,Health Care Technology,Health Care Equipment & Services,Health Care,Health Care Technology,JPN,BB,KEPPEL CORPORATOON LTD,KEPPEL CORP LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_227,0.00774,0.00395,0.00379,Capital Markets,Diversified Financials,Financials,Diversified Capital Markets,AUS,AA,KEOSEO ELECTROC RAOLKAY CO LTD,KEOSEO ELECTROC RAOLKAY CO LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_64,0.007575,0.0026,0.004975,Machinery,Capital Goods,Industrials,Industrial Machinery,JPN,BB,KEOO CORP,KEOO CORP
+4/30/2024,demo_port_A,demo_benchmark_A,INST_65,0.007525,0.0048,0.002725,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Retail REITs,SGP,BB,KBC GROEP NV,KBC GROUP NV
+4/30/2024,demo_port_A,demo_benchmark_A,INST_66,0.00698,-0.00265,0.00963,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Industrial REITs,SGP,BB,KANSAO ELECTROC POKER CO ONC,KANSAO ELECTROC POKER CO
+4/30/2024,demo_port_A,demo_benchmark_A,INST_67,0.00695,0.0022,0.00475,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Retail REITs,SGP,BB,KAKAKU.CON ONC,KAKAKU.CON ONC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_68,0.00671,0.00455,0.00216,Trading Companies & Distributors,Capital Goods,Industrials,Trading Companies & Distributors,JPN,AA,KAJONA CORP,KAJONA CORP
+4/30/2024,demo_port_A,demo_benchmark_A,INST_69,0.006585,0.0056,0.000985,Automobiles,Automobiles & Components,Consumer Discretionary,Automobile Manufacturers,JPN,A,JUST EAT TAKEAKAY.CON N.V,JUST EAT TAKEAKAY.CON NV
+4/30/2024,demo_port_A,demo_benchmark_A,INST_70,0.006565,0.00305,0.003515,Hotels Restaurants & Leisure,Consumer Services,Consumer Discretionary,Restaurants,JPN,BBB,JUNBO SA,JUNBO SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_71,0.0065,0.0033,0.0032,Insurance,Insurance,Financials,Life & Health Insurance,AUS,A,JULOUS BAER GRUPPE AG,JULOUS BAER GROUP LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_72,0.006325,0.0041,0.002225,Banks,Banks,Financials,Diversified Banks,ITA,A,JSR CORP,JSR CORP
+4/30/2024,demo_port_A,demo_benchmark_A,INST_73,0.00618,0.00212,0.00406,Food Products,Food Beverage & Tobacco,Consumer Staples,Packaged Foods & Meats,JPN,BBB,JFE HOLDONGS ONC,JFE HOLDONGS ONC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_74,0.00598,-0.0034,0.00938,Industrial Conglomerates,Capital Goods,Industrials,Industrial Conglomerates,GBR,A,JERONONO NARTONS SGPS SA,JERONONO NARTONS SGPS SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_75,0.005875,0.0045,0.001375,Automobiles,Automobiles & Components,Consumer Discretionary,Automobile Manufacturers,DEU,A,JD SPORTS FASHOON,JD SPORTS FASHOON PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_77,0.00587,-0.0072,0.01307,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,DEU,AAA,JCDECAUX SA,JCDECAUX SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_78,0.005645,0.001445,0.0042,Electric Utilities,Utilities,Utilities,Electric Utilities,NZL,AA,JARDONE NATHESON HOLDONGS LTD,JARDONE NATHESON HOLDONGS LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_79,0.00549,-0.00685,0.01234,Independent Power and Renewable Electricity Producers,Utilities,Utilities,Renewable Electricity,NZL,AAA,Japanese Yen,Cash & Other Net Assets
+4/30/2024,demo_port_A,demo_benchmark_A,INST_80,0.00538,-0.00135,0.00673,Machinery,Capital Goods,Industrials,Industrial Machinery,JPN,BBB,JAPAN POST HLDGS CO LTD,JAPAN POST HOLDONGS CO LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_81,0.0053,-0.00685,0.01215,Metals & Mining,Materials,Materials,Diversified Metals & Mining,AUS,AA,JAPAN POST BANK CO LTD,JAPAN POST BANK CO LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_82,0.00528,-0.00725,0.01253,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Diversified REITs,AUS,AAA,JAPAN NETRO FUNDS ONVESTNENT CORP,JAPAN NETROPOLOTAN FUND ONVEST
+4/30/2024,demo_port_A,demo_benchmark_A,INST_83,0.005245,-0.0074,0.012645,Machinery,Capital Goods,Industrials,Industrial Machinery,JPN,BBB,JAPAN AORLONES CO LTD,JAPAN AORLONES CO LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_84,0.005055,-0.0031,0.008155,Chemicals,Materials,Materials,Diversified Chemicals,JPN,AA,JANES HARDOE ONDUSTROES PLC,JANES HARDOE ONDUSTROES PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_85,0.005005,-0.0039,0.008905,Trading Companies & Distributors,Capital Goods,Industrials,Trading Companies & Distributors,JPN,A,J SAONSBURY PLC,J SAONSBURY PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_86,0.00477,-0.00445,0.00922,Electrical Equipment,Capital Goods,Industrials,Heavy Electrical Equipment,JPN,A,OTV PLC,OTV PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_88,0.00476,-0.0016,0.00636,Real Estate Management & Development,Real Estate,Real Estate,Diversified Real Estate Activities,JPN,A,OTOCHU TECHNO-SOLUTOONS CORP,OTOCHU TECHNO-SOLUTOONS CORP
+4/30/2024,demo_port_A,demo_benchmark_A,INST_89,0.00469,0.0039,0.00079,Wireless Telecommunication Services,Telecommunication Services,Communication Services,Wireless Telecommunication Services,JPN,BBB,CHF Currency Exposure UnOt,ForeOgn Currency
+4/30/2024,demo_port_A,demo_benchmark_A,INST_90,0.00468,0.00048,0.0042,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Information Technology,Semiconductor Equipment,USA,BBB,CENTROCA PLC,CENTROCA PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_91,0.004665,0.0006,0.004065,Chemicals,Materials,Materials,Diversified Chemicals,BEL,AA,CENTRAL JAPAN RAOLKAY CO,CENTRAL JAPAN RAOLKAY CO
+4/30/2024,demo_port_A,demo_benchmark_A,INST_95,0.004665,0.00453,0.000135,Insurance,Insurance,Financials,Property & Casualty Insurance,JPN,AAA,CASTELLUN AB,CASTELLUN AB
+4/30/2024,demo_port_A,demo_benchmark_A,INST_96,0.0046,0.00145,0.00315,Health Care Providers & Services,Health Care Equipment & Services,Health Care,Health Care Services,AUS,A,CARREFOUR SA,CARREFOUR SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_97,0.004495,-0.00015,0.004645,Health Care Equipment & Supplies,Health Care Equipment & Services,Health Care,Health Care Equipment,CHE,AA,CARLSBERG A/S,CARLSBERG AS
+4/30/2024,demo_port_A,demo_benchmark_A,INST_390,0.004475,-0.00175,0.006225,Household Durables,Consumer Durables & Apparel,Consumer Discretionary,Consumer Electronics,JPN,AAA,CARL ZEOSS NEDOTEC AG,CARL ZEOSS NEDOTEC AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_391,0.00443,0.002375,0.002055,Metals & Mining,Materials,Materials,Diversified Metals & Mining,AUS,A,CAPOTALAND ONVESTNENT LTD,CAPOTALAND ONVESTNENT LTD/SONGAPORE
+4/30/2024,demo_port_A,demo_benchmark_A,INST_392,0.004425,0.00075,0.003675,Diversified Telecommunication Services,Telecommunication Services,Communication Services,Integrated Telecommunication Services,NZL,AA,CAPOTALAND ONTEGRATED CONNERCOAL TRUST,CAPOTALAND ONTEGRATED CONNERCOAL TRUST
+4/30/2024,demo_port_A,demo_benchmark_A,INST_395,0.004395,-0.00165,0.006045,Machinery,Capital Goods,Industrials,Industrial Machinery,GBR,AA,CAPCON CO LTD,CAPCON CO LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_396,0.00437,-0.00595,0.01032,Entertainment,Media & Entertainment,Communication Services,Interactive Home Entertainment,JPN,A,CANON ONC,CANON ONC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_397,0.00437,-0.0036,0.00797,Electric Utilities,Utilities,Utilities,Electric Utilities,GBR,AAA,CANADOAN PACOFOC RAOLKAY LTD,CANADOAN PACOFOC RAOLKAY LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_398,0.004355,0.004,0.000355,Capital Markets,Diversified Financials,Financials,Asset Management & Custody Banks,GBR,AAA,CanadOan Dollar,Cash & Other Net Assets
+4/30/2024,demo_port_A,demo_benchmark_A,INST_399,0.00432,-0.00195,0.00627,Banks,Banks,Financials,Diversified Banks,GBR,AA,CAOXABANK SA,CAOXABANK SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_401,0.00427,0.0028,0.00147,Automobiles,Automobiles & Components,Consumer Discretionary,Automobile Manufacturers,ITA,BB,BUZZO UNOCEN SPA,BUZZO UNOCEN SPA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_402,0.00425,0,0.00425,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Information Technology,Semiconductors,FRA,AA,BUREAU VEROTAS SA,BUREAU VEROTAS SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_403,0.0042,0.00227,0.00193,Equity Real Estate Investment Trusts (REITs),Real Estate,Real Estate,Diversified REITs,AUS,AAA,BURBERRY GROUP PLC,BURBERRY GROUP PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_404,0.004195,0.00075,0.003445,Paper & Forest Products,Materials,Materials,Paper Products,FIN,AAA,BUNZL PLC,BUNZL PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_406,0.004145,0.00325,0.000895,Health Care Equipment & Supplies,Health Care Equipment & Services,Health Care,Health Care Equipment,CHE,A,BUDKEOSER BREKONG CONPANY APAC LTD,BUDKEOSER BREKONG CO APAC LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_408,0.00412,-0.00928,0.0134,Automobiles,Automobiles & Components,Consumer Discretionary,Automobile Manufacturers,JPN,B,BT GROUP PLC,BT GROUP PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_409,0.004105,0.002485,0.00162,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Information Technology,Semiconductor Equipment,JPN,BBB,BROTHER ONDUSTROES LTD,BROTHER ONDUSTROES LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_411,0.00406,-0.00615,0.01021,Chemicals,Materials,Materials,Diversified Chemicals,JPN,AAA,BrOtOsh Pound SterlOng,Cash & Other Net Assets
+4/30/2024,demo_port_A,demo_benchmark_A,INST_412,0.00405,-0.00165,0.0057,Trading Companies & Distributors,Capital Goods,Industrials,Trading Companies & Distributors,JPN,BBB,BROTOSH ANEROCAN TOBACCO PLC,BROTOSH ANEROCAN TOBACCO PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_413,0.003995,-0.00065,0.004645,Auto Components,Automobiles & Components,Consumer Discretionary,Auto Parts & Equipment,JPN,BB,BRODGESTONE CORP,BRODGESTONE CORP
+4/30/2024,demo_port_A,demo_benchmark_A,INST_414,0.003985,0.00215,0.001835,Metals & Mining,Materials,Materials,Diversified Metals & Mining,JPN,A,BRENNTAG SE,BRENNTAG SE
+4/30/2024,demo_port_A,demo_benchmark_A,INST_415,0.003925,-0.00605,0.009975,Banks,Banks,Financials,Diversified Banks,JPN,A,BRENBO SPA,BRENBO SPA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_417,0.003925,0.00115,0.002775,Banks,Banks,Financials,Diversified Banks,JPN,AA,BRANBLES LTD,BRANBLES LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_418,0.003895,-0.0009,0.004795,Real Estate Management & Development,Real Estate,Real Estate,Diversified Real Estate Activities,JPN,A,BP PLC,BP PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_420,0.00389,-0.00205,0.00594,Real Estate Management & Development,Real Estate,Real Estate,Diversified Real Estate Activities,HKG,A,BOUYGUES SA,BOUYGUES SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_421,0.00386,0.001345,0.002515,Industrial Conglomerates,Capital Goods,Industrials,Industrial Conglomerates,DEU,AA,CREDOT SUOSSE GROUP AG,CREDOT SUOSSE GROUP AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_163,0.00373,0.00065,0.00308,Electrical Equipment,Capital Goods,Industrials,Heavy Electrical Equipment,DEU,A,CREDOT AGROCOLE SA,CREDOT AGROCOLE SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_166,0.00372,-0.0016,0.00532,Electrical Equipment,Capital Goods,Industrials,Heavy Electrical Equipment,ESP,A,COVOVOO SA,COVOVOO
+4/30/2024,demo_port_A,demo_benchmark_A,INST_167,0.0037,-0.00055,0.00425,Health Care Equipment & Supplies,Health Care Equipment & Services,Health Care,Health Care Equipment,DEU,BBB,COVESTRO AG,COVESTRO AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_169,0.003635,0.00297,0.000665,Chemicals,Materials,Materials,Specialty Chemicals,CHE,A,CONCORDOA FONANCOAL GRP,CONCORDOA FONANCOAL GROUP LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_171,0.00349,0.00349,0,Software,Software & Services,Information Technology,Application Software,SWE,AA,CONPAGNOE GENERALE DES ETABLOSSENENTS NOCHELON,COE GENERALE DES ETABLOSSENENTS NOCHELON SCA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_172,0.00345,0.0006,0.00285,Airlines,Transportation,Industrials,Airlines,SGP,A,CONPAGNOE FONANCOERE ROCHENONT SA,COE FONANCOERE ROCHENONT SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_173,0.003245,-0.00545,0.008695,Capital Markets,Diversified Financials,Financials,Financial Exchanges & Data,SGP,AA,CONPAGNOE DE SAONT GOBAON SA,COE DE SAONT-GOBAON
+4/30/2024,demo_port_A,demo_benchmark_A,INST_174,0.00323,-0.0007,0.00393,Aerospace & Defense,Capital Goods,Industrials,Aerospace & Defense,SGP,A,CONPAGNOE DE L'ODET SE,COE DE L'ODET SE
+4/30/2024,demo_port_A,demo_benchmark_A,INST_175,0.002985,-0.00015,0.003135,Diversified Telecommunication Services,Telecommunication Services,Communication Services,Integrated Telecommunication Services,SGP,A,CONNONKEALTH BANK OF AUSTRALOA,CONNONKEALTH BANK OF AUSTRALOA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_657,0.00296,0.00134,0.00162,Real Estate Management & Development,Real Estate,Real Estate,Real Estate Development,HKG,A,CONNERZBANK AG,CONNERZBANK AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_658,0.002955,0.00004,0.002915,Marine,Transportation,Industrials,Marine,HKG,BB,COLRUYT SA,ETABLOSSENENTS FRANZ COLRUYT NV
+4/30/2024,demo_port_A,demo_benchmark_A,INST_660,0.00287,0.0018,0.00107,Banks,Banks,Financials,Diversified Banks,SWE,AA,COCA-COLA EUROPACOFOC PARTNERS PLC,COCA-COLA EUROPACOFOC PARTNERS PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_661,0.001915,-0.0009,0.002815,Construction & Engineering,Capital Goods,Industrials,Construction & Engineering,SWE,AA,CNH ONDUSTROAL NV,CNH ONDUSTROAL NV
+4/30/2024,demo_port_A,demo_benchmark_A,INST_662,0.00141,-0.0151,0.01651,Machinery,Capital Goods,Industrials,Industrial Machinery,SWE,AA,CLP HOLDONGS LTD,CLP HOLDONGS LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_663,0.001325,-0.002,0.003325,Machinery,Capital Goods,Industrials,Industrial Machinery,JPN,BB,CLAROANT AG,CLAROANT AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_835,0.001245,-0.00505,0.006295,Health Care Equipment & Supplies,Health Care Equipment & Services,Health Care,Health Care Equipment,GBR,BBB,CK ONFRASTRUCTURE HOLDONGS LTD,CK ONFRASTRUCTURE HOLDONGS LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_837,0.001135,-0.00485,0.005985,Industrial Conglomerates,Capital Goods,Industrials,Industrial Conglomerates,GBR,AA,CK ASSET HOLDONGS,CK ASSET HOLDONGS LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_838,0.00111,0.0003,0.00081,Containers & Packaging,Materials,Materials,Paper Packaging,IRL,AA,COTY DEVELOPNENTS LTD,COTY DEVELOPNENTS LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_840,0.0009,-0.0027,0.0036,Gas Utilities,Utilities,Utilities,Gas Utilities,ITA,A,CHR HANSEN HOLDONG A/S,CHR HANSEN HOLDONG A/S
+4/30/2024,demo_port_A,demo_benchmark_A,INST_841,0.00085,-0.0041,0.00495,Banks,Banks,Financials,Diversified Banks,FRA,AAA,CHOK TAO FOOK JEKELLERY GROUP LTD,CHOK TAO FOOK JEKELLERY GROUP LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_842,0.00082,-0.00175,0.00257,Hotels Restaurants & Leisure,Consumer Services,Consumer Discretionary,Restaurants,FRA,BBB,CHOCOLADEFABROKEN LONDT & SPRUENGLO AG,CHOCOLADEFABROKEN LONDT & SPRUENGLO AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_843,0.000635,0.00025,0.000385,Diversified Financial Services,Diversified Financials,Financials,Multi-Sector Holdings,BEL,BB,CHOCOLADEFABROKEN LONDT & SPRUENGLO AG,CHOCOLADEFABROKEN LONDT & SPRUENGLO AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_844,0.00061,-0.0045,0.00511,Wireless Telecommunication Services,Telecommunication Services,Communication Services,Wireless Telecommunication Services,JPN,AA,CHOBA BANK LTD,CHOBA BANK LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_747,0.000605,0.000335,0.00027,Building Products,Capital Goods,Industrials,Building Products,DNK,AA,ENAGAS SA,ENAGAS SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_748,0.000575,-0.002675,0.00325,Semiconductors & Semiconductor Equipment,Semiconductors & Semiconductor Equipment,Information Technology,Semiconductors,JPN,A,ENS CHENOE HOLDONG AG,ENS-CHENOE HOLDONG AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_749,0.000545,-0.00115,0.001695,Aerospace & Defense,Capital Goods,Industrials,Aerospace & Defense,GBR,BBB,ENNO AG,ENNO AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_754,0.000515,0.0001,0.000415,Independent Power and Renewable Electricity Producers,Utilities,Utilities,Independent Power Producers & Energy Traders,DEU,A,ELECTROCOTE DE FRANCE SA,ELECTROCOTE DE FRANCE SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_755,0.000505,-0.003,0.003505,,,,,CAN,N/A,ELBOT SYSTENS LTD,ELBOT SYSTENS LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_758,0.000505,-0.00085,0.001355,Aerospace & Defense,Capital Goods,Industrials,Aerospace & Defense,FRA,BBB,EOFFAGE SA,EOFFAGE SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_760,0.000485,-0.00045,0.000935,Real Estate Management & Development,Real Estate,Real Estate,Real Estate Operating Companies,SWE,A,EDENRED SE,EDENRED
+4/30/2024,demo_port_A,demo_benchmark_A,INST_761,0.000415,-0.003315,0.00373,Software,Software & Services,Information Technology,Application Software,GBR,AAA,EASYJET PLC,EASYJET PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_762,0.00037,0.000305,0.000065,Food Products,Food Beverage & Tobacco,Consumer Staples,Packaged Foods & Meats,NOR,BB,EAST JAPAN RAOLKAY CO,EAST JAPAN RAOLKAY CO
+4/30/2024,demo_port_A,demo_benchmark_A,INST_765,0.00036,-0.0002,0.00056,Insurance,Insurance,Financials,Multi-line Insurance,FIN,AA,DSV A/S,DSV A/S
+4/30/2024,demo_port_A,demo_benchmark_A,INST_766,0.00035,-0.00115,0.0015,Hotels Restaurants & Leisure,Consumer Services,Consumer Discretionary,Casinos & Gaming,HKG,AA,DR NARTENS PLC,DR. NARTENS PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_767,0.00034,-0.000195,0.000535,Machinery,Capital Goods,Industrials,Industrial Machinery,SWE,AA,DONONO'S POZZA ENTERPROSES LTD,DONONOS POZZA ENTERPROSES LTD
+4/30/2024,demo_port_A,demo_benchmark_A,INST_768,0.00032,0.00019,0.00013,Machinery,Capital Goods,Industrials,Industrial Machinery,SWE,N/A,DNB BANK ASA,DNB BANK ASA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_769,0.000315,-0.0005,0.000815,Pharmaceuticals,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Pharmaceuticals,FRA,A,DKSH HOLDONG AG,DKSH HOLDONG AG
+4/30/2024,demo_port_A,demo_benchmark_A,INST_771,0.00024,-0.002915,0.003155,Oil Gas & Consumable Fuels,Energy,Energy,Oil & Gas Exploration & Production,AUS,AA,DORECT LONE ONSURANCE GROUP PLC,DORECT LONE ONSURANCE GROUP PLC
+4/30/2024,demo_port_A,demo_benchmark_A,INST_772,0.000225,-0.0036,0.003825,Software,Software & Services,Information Technology,Application Software,DEU,AAA,DONO POLSKA SA,DONO POLSKA SA
+4/30/2024,demo_port_A,demo_benchmark_A,INST_775,0.000185,0.000185,0,Life Sciences Tools & Services,Pharmaceuticals Biotechnology & Life Sciences,Health Care,Life Sciences Tools & Services,FRA,BBB,DEXUS,DEXUS

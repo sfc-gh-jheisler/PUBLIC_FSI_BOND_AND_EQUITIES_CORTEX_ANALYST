@@ -1,0 +1,548 @@
+name: equities_yamwich
+tables:
+  - name: EQUITY_HOLDINGS_FACT
+    description: Equity Holdings table captures the portfolio holdings of a fund or
+      portfolio as of a reported date, including the instrument's details, weight,
+      and active weights comparing to the benchmark.
+    base_table:
+      database: GEN_AI_FSI
+      schema: EQUITY_AND_BOND_ANALYST
+      table: EQUITY_HOLDINGS_FACT
+    primary_key:
+      columns:
+        - AS_OF_DATE
+        - PORTFOLIO
+        - BENCHMARK
+        - INSTRUMENT_ID
+    filters:
+      - name: overweight
+        description: holdings overweight comparing with benchmark
+        expr: active_weight_pct > 0
+      - name: underweight
+        description: holdings underweight comparing with benchmark
+        expr: active_weight_pct < 0
+    dimensions:
+      - name: PORTFOLIO
+        synonyms:
+          - '  '
+        description: Portfolio Name
+        expr: PORTFOLIO
+        data_type: TEXT
+        sample_values:
+          - demo_port_A
+      - name: BENCHMARK
+        synonyms:
+          - '  '
+        description: Benchmark for equity holdings. Default to this when someone asks
+          questions about a benchmark for equity holdings.
+        expr: BENCHMARK
+        data_type: TEXT
+        sample_values:
+          - demo_benchmark_A
+      - name: INSTRUMENT_ID
+        synonyms:
+          - '  '
+        description: Unique identifier for each instrument holding.
+        expr: INSTRUMENT_ID
+        data_type: TEXT
+        sample_values:
+          - INST_455
+          - INST_456
+          - INST_457
+          - INST_459
+          - INST_460
+          - INST_461
+          - INST_463
+          - INST_464
+          - INST_465
+          - INST_466
+          - INST_467
+          - INST_468
+          - INST_470
+          - INST_471
+          - INST_479
+      - name: CNTRY_OF_RISK
+        synonyms:
+          - country exposure
+          - risk country
+        description: Country exposure.
+        expr: CNTRY_OF_RISK
+        data_type: TEXT
+        sample_values:
+          - FRA
+          - ISR
+          - JPN
+          - GBR
+          - AUS
+          - HKG
+          - NLD
+          - PRT
+          - CHE
+          - SGP
+          - DNK
+          - DEU
+          - ITA
+          - BEL
+          - USA
+      - name: COMPANY_RATING
+        synonyms:
+          - '  '
+        description: Company credit rating.__
+        expr: COMPANY_RATING
+        data_type: TEXT
+        sample_values:
+          - A
+          - BB
+          - BBB
+          - B
+          - CCC
+          - AA
+          - N/A
+          - AAA
+      - name: ASSET_NAME
+        synonyms:
+          - '  '
+        description: List of asset names held by the company.__
+        expr: ASSET_NAME
+        data_type: TEXT
+        sample_values:
+          - NYTOLONEOS SA
+          - NURATA NANUFACTURONG CO LTD
+          - NUENCHENER RUECKVERSOCHERUNGS AG
+          - NTR CORP LTD
+          - NOKO ASA
+          - NOTOR OOL HELLAS CORONTH REFONEROES SA
+          - NONDO PLC
+          - NOZRAHO TEFAHOT BANK LTD
+          - NOTSUO O.S.K. LONES LTD
+          - NOTSUO CHENOCALS ONC
+          - NOTSUBOSHO HEAVY ONDUSTROES LTD
+          - NOTSUBOSHO HC CAPOTAL ONC
+          - NOTSUBOSHO CORP
+          - NONCLER SPA
+          - NOZUHO FONANCOAL GROUP ONC
+      - name: ISSUER
+        synonyms:
+          - '  '
+        description: List of issuers of equity holdings.__
+        expr: ISSUER
+        data_type: TEXT
+        sample_values:
+          - NYTOLONEOS S.A.
+          - NURATA NANUFACTURONG CO LTD
+          - NUENCHENER RUECKVERSOCHERUNGS-GESELLSCHAFT AG (NUNOCHRE
+          - NTR CORP LTD
+          - NOKO ASA
+          - NOTOR OOL HELLAS CORONTH REFONEROES SA
+          - NONDO PLC
+          - NOZRAHO TEFAHOT BANK LTD
+          - NOTSUO OSK LONES LTD
+          - NOTSUO CHENOCALS ONC
+          - NOTSUBOSHO HEAVY ONDUSTROES LTD
+          - NOTSUBOSHO HC CAPOTAL ONC
+          - NOSUNO GROUP ONC
+          - NORVAC GROUP
+          - NONCLER SPA
+      - name: GICS_ID
+        synonyms:
+          - '  '
+        description: Global Industry Classification Standard (GICS) Identifier__
+        expr: GICS_ID
+        data_type: NUMBER
+        sample_values:
+          - '1401'
+          - '1402'
+          - '1403'
+          - '1404'
+          - '1405'
+          - '1456'
+          - '1406'
+          - '1434'
+          - '1409'
+          - '1457'
+          - '1435'
+          - '1410'
+          - '1411'
+          - '1412'
+          - '1415'
+    time_dimensions:
+      - name: AS_OF_DATE
+        synonyms:
+          - '  '
+        description: Date of equity holdings snapshot.__
+        expr: AS_OF_DATE
+        data_type: DATE
+        sample_values:
+          - '2024-06-30'
+          - '2024-05-31'
+          - '2024-04-30'
+    measures:
+      - name: WEIGHT_PCT
+        synonyms:
+          - '  '
+        description: Weight Percentage of Equity Holdings__
+        expr: WEIGHT_PCT
+        data_type: FLOAT
+        sample_values:
+          - '0.01939'
+          - '0.01938'
+          - '0.01891'
+          - '0.01849'
+          - '0.017'
+          - '0.01583'
+          - '0.0155'
+          - '0.01443'
+          - '0.01434'
+          - '0.01355'
+          - '0.01349'
+          - '0.01295'
+          - '0.01261'
+          - '0.01254'
+          - '0.01232'
+      - name: ACTIVE_WEIGHT_PCT
+        synonyms:
+          - '  '
+        description: Active weight percentage of equity holdings.__
+        expr: ACTIVE_WEIGHT_PCT
+        data_type: FLOAT
+        sample_values:
+          - '0.0081'
+          - '0.0021'
+          - '0.0126'
+          - '-0.0063'
+          - '0.0157'
+          - '0.0017'
+          - '0.0155'
+          - '-0.0042'
+          - '-0.007'
+          - '-0.0012'
+          - '-0.0045'
+          - '-0.001'
+          - '0.0116'
+          - '-0.0015'
+          - '0.0028'
+      - name: BMK_WEIGHT_PCT
+        synonyms:
+          - '  '
+        description: Book-to-Market Weight Percentage__
+        expr: BMK_WEIGHT_PCT
+        data_type: FLOAT
+        sample_values:
+          - '0.01129'
+          - '0.01728'
+          - '0.00631'
+          - '0.02479'
+          - '0.0142'
+          - '0.00013'
+          - '0.01387'
+          - '0.0'
+          - '0.01863'
+          - '0.02134'
+          - '0.01518'
+          - '0.00225'
+          - '0.01799'
+          - '0.01435'
+          - '0.00495'
+  - name: EQUITY_TXNS_FACT
+    description: This table stores facts about equity transactions, including the
+      trade date, instrument ID, trade price, trade quantity, buy/sell indicator,
+      portfolio information, settled quantity, asset name, and issuer.__
+    base_table:
+      database: GEN_AI_FSI
+      schema: EQUITY_AND_BOND_ANALYST
+      table: EQUITY_TXNS_FACT
+    dimensions:
+      - name: INSTRUMENT_ID
+        synonyms:
+          - '  '
+        description: Unique identifier for each instrument traded.__
+        expr: INSTRUMENT_ID
+        data_type: TEXT
+        sample_values:
+          - INST_131
+          - INST_1008
+          - INST_1024
+          - INST_11
+          - INST_1029
+          - INST_102
+          - INST_141
+          - INST_115
+          - INST_150
+          - INST_100
+          - INST_13
+          - INST_137
+          - INST_136
+          - INST_1038
+          - INST_1026
+      - name: BUY_SELL
+        synonyms:
+          - '  '
+        description: Buy/Sell Indicator__
+        expr: BUY_SELL
+        data_type: TEXT
+        sample_values:
+          - S
+          - B
+      - name: PORTFOLIO
+        synonyms:
+          - '  '
+        description: Portfolio identifier for the equity transaction.__
+        expr: PORTFOLIO
+        data_type: TEXT
+        sample_values:
+          - demo_portfolio_A
+          - demo_portfolio_B
+      - name: ASSET_NAME
+        synonyms:
+          - '  '
+        description: List of asset names.__
+        expr: ASSET_NAME
+        data_type: TEXT
+        sample_values:
+          - UBOSOFT ENTERTAONNENT SA
+          - YANAHA CORP
+          - KESFARNERS LTD
+          - KARTSOLA OYJ ABP
+          - KHOTBREAD
+          - TOKYO ELECTRON LTD
+          - TOYOTA ONDUSTROES CORP
+          - VALEO SE
+          - TOKYO GAS CO LTD
+          - ZON ONTEGRATED SHOPPONG SERVOCES LTD
+          - UCB SA
+          - TRAVOS PERKONS PLC
+          - TREASURY KONE ESTATES LTD
+          - VODAFONE GROUP PLC
+          - VEOLOA ENVORONNENENT SA
+      - name: ISSUER
+        synonyms:
+          - '  '
+        description: Issuer of the equity transaction.__
+        expr: ISSUER
+        data_type: TEXT
+        sample_values:
+          - UBOSOFT ENTERTAONNENT SA
+          - YANAHA CORP
+          - KESFARNERS LTD
+          - KARTSOLA OYJ ABP
+          - KHOTBREAD PLC
+          - TOKYO ELECTRON LTD
+          - TOYOTA ONDUSTROES CORP
+          - VALEO
+          - TOKYO GAS CO LTD
+          - ZON ONTEGRATED SHOPPONG SERVOCES LTD
+          - UCB SA
+          - TREASURY KONE ESTATES LTD
+          - KELCOA HOLDONGS CO LTD
+          - KOODSODE ENERGY GROUP LTD
+          - VEOLOA ENVORONNENENT SA
+    time_dimensions:
+      - name: TRADE_DT
+        synonyms:
+          - '  '
+        description: Trade Date__
+        expr: TRADE_DT
+        data_type: DATE
+        sample_values:
+          - '2024-06-30'
+          - '2024-06-29'
+          - '2024-06-28'
+          - '2024-06-27'
+          - '2024-06-26'
+    measures:
+      - name: TRADE_PX
+        synonyms:
+          - '  '
+        description: Trade Price__
+        expr: TRADE_PX
+        data_type: FLOAT
+        sample_values:
+          - '47.8'
+          - '43.5'
+          - '130.2'
+          - '48.2'
+          - '87.8'
+          - '38.7'
+          - '119.6'
+          - '93.4'
+          - '47.7'
+          - '42.1'
+          - '179.4'
+          - '105.8'
+          - '130.0'
+          - '14.1'
+          - '182.5'
+      - name: TRADE_QTY
+        synonyms:
+          - '  '
+        description: Trade Quantity__
+        expr: TRADE_QTY
+        data_type: FLOAT
+        sample_values:
+          - '317000.0'
+          - '295000.0'
+          - '205000.0'
+          - '251000.0'
+          - '391000.0'
+          - '336000.0'
+          - '349000.0'
+          - '364000.0'
+          - '266000.0'
+          - '380000.0'
+          - '242000.0'
+          - '454000.0'
+          - '494000.0'
+          - '348000.0'
+          - '475000.0'
+      - name: SETTLED_QTY
+        synonyms:
+          - '  '
+        description: Settled quantity of equity transactions.__
+        expr: SETTLED_QTY
+        data_type: FLOAT
+        sample_values:
+          - '317000.0'
+          - '265500.0'
+          - '184500.0'
+          - '225900.0'
+          - '156400.0'
+          - '0.0'
+          - '36400.0'
+          - '186200.0'
+          - '297600.0'
+          - '96800.0'
+          - '454000.0'
+          - '345800.0'
+          - '83000.0'
+          - '302400.0'
+          - '81900.0'
+  - name: GICS
+    description: Global Industry Classification Standard (GICS) Sector, Industry Group,
+      Industry, and Sub-Industry Codes.__
+    base_table:
+      database: GEN_AI_FSI
+      schema: EQUITY_AND_BOND_ANALYST_DIMS
+      table: GICS
+    primary_key:
+      columns:
+        - ID
+    dimensions:
+      - name: GICS_SECTOR
+        synonyms:
+          - Sector
+        description: 'GICS Sector: The primary sector classification of a company,
+          as defined by the Global Industry Classification Standard (GICS).__'
+        expr: GICS_SECTOR
+        data_type: TEXT
+        sample_values:
+          - Communication Services
+          - Consumer Discretionary
+          - Energy
+          - Financials
+          - Health Care
+          - Information Technology
+          - Materials
+          - Real Estate
+          - Utilities
+          - Consumer Staples
+          - Industrials
+      - name: GICS_IND_GRP
+        synonyms:
+          - industry group
+        description: GICS Industry Group Codes__
+        expr: GICS_IND_GRP
+        data_type: TEXT
+        sample_values:
+          - Media & Entertainment
+          - Telecommunication Services
+          - Automobiles & Components
+          - Consumer Services
+          - Retailing
+          - Food & Staples Retailing
+          - Household & Personal Products
+          - Banks
+          - Diversified Financials
+          - Pharmaceuticals Biotechnology & Life Sciences
+          - Capital Goods
+          - Food Beverage & Tobacco
+          - Semiconductors & Semiconductor Equipment
+          - Software & Services
+          - Utilities
+      - name: GICS_IND
+        synonyms:
+          - industry
+          - ind
+        description: Global Industry Classification Standard (GICS) Industry Codes__
+        expr: GICS_IND
+        data_type: TEXT
+        sample_values:
+          - Entertainment
+          - Interactive Media & Services
+          - Media
+          - Diversified Telecommunication Services
+          - Wireless Telecommunication Services
+          - Auto Components
+          - Automobiles
+          - Household Durables
+          - Textiles Apparel & Luxury Goods
+          - Diversified Consumer Services
+          - Hotels Restaurants & Leisure
+          - Internet & Direct Marketing Retail
+          - Specialty Retail
+          - Beverages
+          - Leisure Products
+      - name: GICS_SUBIND
+        synonyms:
+          - subindustry
+          - sub-industry
+          - sub industry
+        description: GICS Subindustry Codes__
+        expr: GICS_SUBIND
+        data_type: TEXT
+        sample_values:
+          - Interactive Home Entertainment
+          - Interactive Media & Services
+          - Advertising
+          - Publishing
+          - Integrated Telecommunication Services
+          - Wireless Telecommunication Services
+          - Auto Parts & Equipment
+          - Tires & Rubber
+          - Automobile Manufacturers
+          - Consumer Electronics
+          - Homebuilding
+          - Apparel Accessories & Luxury Goods
+          - Footwear
+          - Education Services
+          - Casinos & Gaming
+      - name: ID
+        synonyms:
+          - ' '
+        description: GICS Industry Classification Codes__
+        expr: ID
+        data_type: NUMBER
+        sample_values:
+          - '1454'
+          - '1416'
+          - '1460'
+          - '1482'
+          - '1423'
+          - '1484'
+          - '1437'
+          - '1439'
+          - '1446'
+          - '1509'
+          - '1467'
+          - '1442'
+          - '1490'
+          - '1425'
+          - '1418'
+relationships:
+  - name: equites_holdings_to_gics
+    left_table: EQUITY_HOLDINGS_FACT
+    right_table: GICS
+    join_type: inner
+    relationship_type: many_to_one
+    relationship_columns:
+      - left_column: GICS_ID
+        right_column: ID
